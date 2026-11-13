@@ -1,0 +1,426 @@
+{
+  "id": "andrea-pavlova",
+  "name": "Andrea Pavlová",
+  "first": "Andrea",
+  "last": "Pavlová",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "PA",
+  "role": "učitelka",
+  "room": "kab. 17",
+  "phone": "251092165",
+  "classroom": "4. C",
+  "email": "andrea.pavlova@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "ANJ",
+      "room": "U18",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C ANJ (U18) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "CHE",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A CHE (U10)"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "CHE",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I CHE (U10)"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "CHE",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B CHE (U10)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "BIO",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L BIO (U1)"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "CHE",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C CHE (SB)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "ANJ",
+      "room": "U18",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C ANJ (U18) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "ANJ",
+      "room": "U18",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C ANJ (U18) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "CHE",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C CHE (SB)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "BIO",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L BIO (U1)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "BIO",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L BIO (U1)"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "CHE",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B CHE (U10)"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "CHE",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I CHE (U3)"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "CHE",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A CHE (U7)"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "ANJ",
+      "room": "U18",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C ANJ (U18) · 1/2"
+    }
+  ],
+  "subjects": [
+    "ANJ",
+    "BIO",
+    "CHE",
+    "TEV"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nÚt: 1. hod; Pá: 4. hod\nDohled ve 2. patře (2.P)\nÚt: před 2. hod;\nSt: před 7. hod;\nČt: před 7. hod;\nPá: před 7. hod",
+  "pdf": "",
+  "fallbackAvatar": "female",
+  "photo": "assets/portraits/andrea-pavlova-20261103.webp",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-11-03",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

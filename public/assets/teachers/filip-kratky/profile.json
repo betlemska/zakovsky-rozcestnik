@@ -1,0 +1,237 @@
+{
+  "id": "filip-kratky",
+  "name": "Filip Krátký",
+  "first": "Filip",
+  "last": "Krátký",
+  "title": "",
+  "suffix": "",
+  "code": "KF",
+  "role": "učitel",
+  "room": "kab. 8",
+  "phone": "251092106",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "APS",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I APS (U21) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "APS",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I APS (U21) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "ICT",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B ICT (U21) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "ICT",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B ICT (U21) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "ICT",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ICT (U21) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "ICT",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ICT (U21) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "APS",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I APS (U21) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "APS",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I APS (U21) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "PVA",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PVA (U21) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "PVA",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PVA (U21) · 2/2"
+    }
+  ],
+  "subjects": [
+    "APS",
+    "ICT",
+    "PVA"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

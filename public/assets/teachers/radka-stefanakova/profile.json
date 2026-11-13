@@ -1,0 +1,396 @@
+{
+  "id": "radka-stefanakova",
+  "name": "Radka Štefaňáková",
+  "first": "Radka",
+  "last": "Štefaňáková",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "SR",
+  "role": "učitelka",
+  "room": "kab. 4",
+  "phone": "251092128",
+  "classroom": "",
+  "email": "radka.stefanakova@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C CJL (U3)"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "EKO",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B EKO (U10)"
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "subject": "EKO",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B EKO (U10)"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I CJL (U3)"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I CJL (U3)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "CJL",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C CJL (SB)"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I CJL (U3)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "EKO",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A EKO (U7)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "CJL",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L CJL (U1)"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "EKO",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C EKO (U15)"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "EKO",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A EKO (U17)"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I CJL (U3)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "EKO",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A EKO (U7)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "CJL",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C CJL (SB)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "CJL",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C CJL (SB)"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "CJL",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L CJL (U1)"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "CJL",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L CJL (U1)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "CJL",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L CJL (U1)"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "EKO",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C EKO (U8)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "EKO",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C EKO (SB)"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "EKO",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B EKO (U15)"
+    }
+  ],
+  "subjects": [
+    "CJL",
+    "EKO"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nČt: 6. hod; Pá: 6. hod\nDohled ve 2. patře (2.P)\nSt: před 4. hod;\nČt: před 5. hod;\nPá: před 2. hod",
+  "pdf": "",
+  "fallbackAvatar": "female",
+  "photo": "assets/portraits/radka-stefanakova-20261104.webp",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-11-04",
+  "externalLinks": [
+    {
+      "label": "Rozhovor · Vzdělávat, ale neosekávat hrany",
+      "url": "https://www.sliving.cz/volny-cas/665-radka-stefanakova-vzdelavat-ale-neosekavat-hrany"
+    }
+  ],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-03",
+  "mode": "Built-in image_gen.imagegen, identity-preserving reference edits",
+  "outputs": [
+    "public/assets/portraits/jiri-gotz-20261103.webp",
+    "public/assets/portraits/andrea-pavlova-20261103.webp"
+  ],
+  "encoding": "1024x1024 WebP quality95, alpha preserved; large PNG originals generated separately",
+  "prompts": {
+    "gotz": "Use case: restoration-cleanup.\nAsset type: teacher circular profile avatar for a professional gray school portal.\nEdit target: supplied photograph of Jiří Götz.\nCreate a faithful high-resolution 1024x1024 circular head-and-shoulders photo crop. Keep exactly the same person, age, face proportions, wide smile and teeth, gaze, long dark hair, white shirt and blue tie from the source. Preserve his distinctive original hairstyle and expression. Gently reduce compression artifacts and noise, restore only supported detail and improve sharpness naturally. No invented facial features, no beauty retouching, no changes in age or likeness. Frame his entire hair with a little breathing room, face prominently centered, shoulders at the lower edge. Replace the room/map/blinds background with a soft neutral light gray background INSIDE the circle. Outside the circular portrait is genuinely transparent alpha, with a clean antialiased edge. No border, text, logo, watermark or extra person. A single circular avatar, not a sheet of variants.",
+    "pavlova": "Use case: restoration-cleanup.\nAsset type: teacher circular profile avatar for a professional gray school portal.\nEdit target: supplied photograph of Andrea Pavlová.\nCreate a faithful high-resolution 1024x1024 circular head-and-shoulders photo crop. Keep exactly the same woman, age, face proportions, expression, head angle, gaze, original swept-back blonde hair/ponytail, small earrings, original brown aviator sunglasses and visible clothing/shoulders from the source. Keep the sunglasses ON, don't invent visible eyes or change her face. Gently reduce compression artifacts and noise, improve sharpness naturally while preserving skin texture, real lighting and identity. No invented facial features, no beauty retouching, no changes in age or likeness. Frame all of the top of her hair with breathing room, face centered and prominent, shoulders at the lower edge. Replace river/buildings background with a soft neutral light gray background INSIDE the circle. Outside the circular portrait is genuinely transparent alpha, with a clean antialiased edge. No border, text, logo, watermark or extra person. A single circular avatar, not a sheet of variants."
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "id": "eva-landkammerova",
+  "name": "Eva Landkammerová",
+  "first": "Eva",
+  "last": "Landkammerová",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "LE",
+  "role": "učitelka",
+  "room": "kab. 15",
+  "phone": "251092136",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "EKO",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L EKO (MFC)"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "TEK",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C TEK (SB)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "TEK",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C TEK (SB)"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "EKO",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I EKO (U12)"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B SPS (SPS)"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B SPS (SPS)"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "TEK",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C TEK (SPS)"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "TEK",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C TEK (SPS)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "SPS",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B SPS (U6)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "MEC",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L MEC (U16)"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "ZKT",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ZKT (U16)"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "EKO",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L EKO (MFC)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "EKO",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L EKO (MFC)"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "STT",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C STT (U8)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L MEC (U16)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "ZKT",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ZKT (U16)"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "EKO",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I EKO (U1)"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "STT",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C STT (U8)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "EKO",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I EKO (U17)"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "ZKT",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ZKT (U16)"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "SPS",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B SPS (U6)"
+    }
+  ],
+  "subjects": [
+    "EKO",
+    "MEC",
+    "SPS",
+    "STT",
+    "TEK",
+    "ZKT"
+  ],
+  "duties": "",
+  "fallbackAvatar": "female",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

@@ -1,0 +1,441 @@
+{
+  "id": "jan-lexa",
+  "name": "Jan Lexa",
+  "first": "Jan",
+  "last": "Lexa",
+  "title": "Bc.",
+  "suffix": "",
+  "code": "LX",
+  "role": "učitel",
+  "room": "kab. 8",
+  "phone": "251092106",
+  "classroom": "1.C",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "MAT",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C MAT (U8)"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "MAT",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C MAT (SB)"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A MAT (U9)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A MAT (U9)"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A MAT (U17)"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "MAT",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B MAT (U15)"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "MAT",
+      "room": "MEC",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A MAT (MEC)"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C MAT (U8)"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "MAT",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I MAT (U20)"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "MAT",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B MAT (U15)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "MAT",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C MAT (U16)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A MAT (U9)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C MAT (U8)"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "MAT",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I MAT (U20)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A MAT (U9)"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I MAT (U20)"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "MAT",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C MAT (SB)"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "MAT",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B MAT (U15)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "PVA",
+      "room": "HRW",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I PVA (HRW) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "PVA",
+      "room": "HRW",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I PVA (HRW) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A MAT (U17)"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C MAT (MFC)"
+    }
+  ],
+  "subjects": [
+    "ICT",
+    "MAT",
+    "PVA"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

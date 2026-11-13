@@ -1,0 +1,270 @@
+{
+  "id": "bohumil-jahoda",
+  "name": "Bohumil Jahoda",
+  "first": "Bohumil",
+  "last": "Jahoda",
+  "title": "",
+  "suffix": "",
+  "code": "JB",
+  "role": "učitel",
+  "room": "kab. PRA",
+  "phone": "251092139",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "PRA",
+      "room": "ZAM",
+      "group": "2/3",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C PRA (ZAM) · 2/3"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "PRA",
+      "room": "ZAM",
+      "group": "2/3",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C PRA (ZAM) · 2/3"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "PRA",
+      "room": "ZAM",
+      "group": "2/3",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C PRA (ZAM) · 2/3"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C PRA (SVA) · 1/3"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C PRA (SVA) · 1/3"
+    },
+    {
+      "day": 2,
+      "hour": 9,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C PRA (SVA) · 1/3"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "PRA",
+      "room": "ZAM",
+      "group": "3/3",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A PRA (ZAM) · 3/3"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "PRA",
+      "room": "ZAM",
+      "group": "3/3",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A PRA (ZAM) · 3/3"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "PRA",
+      "room": "ZAM",
+      "group": "3/3",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A PRA (ZAM) · 3/3"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "PCV",
+      "room": "ZAM",
+      "group": "3/3P",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L PCV (ZAM) · 3/3P"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "PCV",
+      "room": "ZAM",
+      "group": "3/3P",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L PCV (ZAM) · 3/3P"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B PRA (SVA) · 1/3"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B PRA (SVA) · 1/3"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B PRA (SVA) · 1/3"
+    }
+  ],
+  "subjects": [
+    "PCV",
+    "PRA"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

@@ -1,0 +1,235 @@
+{
+  "id": "zuzana-kassovicova",
+  "name": "Zuzana Kaššovicová",
+  "first": "Zuzana",
+  "last": "Kaššovicová",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "KŠ",
+  "role": "učitelka",
+  "room": "kab. 4",
+  "phone": "251092128",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "NEJ",
+      "room": "CIJ1",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L NEJ (CIJ1) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "NEJ",
+      "room": "CIJ1",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L NEJ (CIJ1) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "NEJ",
+      "room": "U1",
+      "group": "3/3N",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L NEJ (U1) · 3/3N"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "NEJ",
+      "room": "U1",
+      "group": "2/3N",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L NEJ (U1) · 2/3N"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "NEJ",
+      "room": "CIJ2",
+      "group": "2/3N",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L NEJ (CIJ2) · 2/3N"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "NEJ",
+      "room": "CIJ2",
+      "group": "2/3N",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L NEJ (CIJ2) · 2/3N"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "NEJ",
+      "room": "CIJ4",
+      "group": "2/2N",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L NEJ (CIJ4) · 2/2N"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "NEJ",
+      "room": "CIJ3",
+      "group": "2/2N",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L NEJ (CIJ3) · 2/2N"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "NEJ",
+      "room": "CIJ1",
+      "group": "2/3N",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L NEJ (CIJ1) · 2/3N"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "NEJ",
+      "room": "CIJ1",
+      "group": "3/3N",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L NEJ (CIJ1) · 3/3N"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "NEJ",
+      "room": "CIJ4",
+      "group": "3/3N",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L NEJ (CIJ4) · 3/3N"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "NEJ",
+      "room": "CIJ4",
+      "group": "3/3N",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L NEJ (CIJ4) · 3/3N"
+    }
+  ],
+  "subjects": [
+    "NEJ"
+  ],
+  "duties": "",
+  "fallbackAvatar": "female",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

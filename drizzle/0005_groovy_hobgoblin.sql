@@ -1,0 +1,1 @@
+ALTER TABLE `portal_admins` ADD `school_events` integer DEFAULT 0 NOT NULL;

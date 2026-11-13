@@ -1,0 +1,235 @@
+{
+  "id": "filip-zahon-persidsky",
+  "name": "Filip Záhon Persidský",
+  "first": "Filip",
+  "last": "Záhon Persidský",
+  "title": "RNDr.",
+  "suffix": "",
+  "code": "ZP",
+  "role": "učitel",
+  "room": "kab. 6",
+  "phone": "251092170",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L MAT (U5)"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "MAT",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L MAT (U5)"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L MAT (MFC)"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L MAT (MFC)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "MEC",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I MAT (MEC)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "MEC",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I MAT (MEC)"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "MAT",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L MAT (U5)"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I MAT (MFC)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I MAT (MFC)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L MAT (MFC)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L MAT (MFC)"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "MAT",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L MAT (U5)"
+    }
+  ],
+  "subjects": [
+    "MAT"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

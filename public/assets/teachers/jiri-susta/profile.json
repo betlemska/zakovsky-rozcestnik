@@ -1,0 +1,288 @@
+{
+  "id": "jiri-susta",
+  "name": "Jiří Šusta",
+  "first": "Jiří",
+  "last": "Šusta",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "ŠJ",
+  "role": "učitel",
+  "room": "kab. PRA",
+  "phone": "251092139",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B KOM (KOM1) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "KOM",
+      "room": "LAB",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B KOM (LAB) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "PCV",
+      "room": "CNC2",
+      "group": "2/3",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PCV (CNC2) · 2/3"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "PCV",
+      "room": "CNC2",
+      "group": "2/3",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PCV (CNC2) · 2/3"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "PRA",
+      "room": "CNC4",
+      "group": "2/3",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C PRA (CNC4) · 2/3"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "PRA",
+      "room": "CNC4",
+      "group": "2/3",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C PRA (CNC4) · 2/3"
+    },
+    {
+      "day": 2,
+      "hour": 9,
+      "subject": "PRA",
+      "room": "CNC4",
+      "group": "2/3",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C PRA (CNC4) · 2/3"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "1/3",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B PRA (CNC1) · 1/3"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "1/3",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B PRA (CNC1) · 1/3"
+    },
+    {
+      "day": 3,
+      "hour": 9,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "1/3",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B PRA (CNC1) · 1/3"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "PRA",
+      "room": "CNC4",
+      "group": "2/3",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B PRA (CNC4) · 2/3"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "PRA",
+      "room": "CNC4",
+      "group": "2/3",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B PRA (CNC4) · 2/3"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "PRA",
+      "room": "CNC4",
+      "group": "2/3",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B PRA (CNC4) · 2/3"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L KOM (KOM2) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L KOM (KOM2) · 2/2"
+    }
+  ],
+  "subjects": [
+    "KOM",
+    "PCV",
+    "PRA"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

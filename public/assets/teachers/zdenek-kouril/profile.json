@@ -1,0 +1,439 @@
+{
+  "id": "zdenek-kouril",
+  "name": "Zdeněk Kouřil",
+  "first": "Zdeněk",
+  "last": "Kouřil",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "KZ",
+  "role": "učitel",
+  "room": "kab. 3",
+  "phone": "251092124",
+  "classroom": "4. A",
+  "email": "zdenek.kouril@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "ANJm",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B KOM (KOM2) · ANJm"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "ANJm",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B KOM (KOM2) · ANJm"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "STT",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A STT (U9)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "CDM",
+      "room": "VYT1",
+      "group": "1/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L CDM (VYT1) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "CDM",
+      "room": "VYT1",
+      "group": "1/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L CDM (VYT1) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "MET",
+      "room": "AUL1",
+      "group": "MET",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A MET (AUL1) · MET"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "MET",
+      "room": "AUL1",
+      "group": "MET",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A MET (AUL1) · MET"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "CAMi",
+      "room": "VYT3",
+      "group": "1/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CAMi (VYT3) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "CAMi",
+      "room": "VYT3",
+      "group": "1/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CAMi (VYT3) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "MET",
+      "room": "AUL1",
+      "group": "MET",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C MET (AUL1) · MET"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "MET",
+      "room": "AUL1",
+      "group": "MET",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C MET (AUL1) · MET"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C KOM (KOM2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C KOM (KOM2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "ANJm",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A KOM (KOM2) · ANJm"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "ANJm",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A KOM (KOM2) · ANJm"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "MET",
+      "room": "AUL1",
+      "group": "MET",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C MET (AUL1) · MET"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "MET",
+      "room": "AUL1",
+      "group": "MET",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C MET (AUL1) · MET"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "2/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C KOM (KOM2) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "KOM",
+      "room": "KOM2",
+      "group": "2/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C KOM (KOM2) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "STT",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A STT (U9)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "CAMi",
+      "room": "VYT1",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CAMi (VYT1) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "CAMi",
+      "room": "VYT1",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CAMi (VYT1) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "STT",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A STT (U9)"
+    }
+  ],
+  "subjects": [
+    "CAMi",
+    "CDM",
+    "KOM",
+    "MET",
+    "STT"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nPo: 3. hod; Pá: 4. hod\nDohled v přízemí (PŘ)\nPo: před 2. hod;\nSt: před 2., 8., 9. hod;\nČt: před 7., 8. hod\nDohled v jídelně (JD)\nÚt: před 5. hod",
+  "pdf": "",
+  "photo": "assets/portraits/zdenek-kouril.png",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-10-27",
+  "fallbackAvatar": "male",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

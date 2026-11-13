@@ -1,0 +1,372 @@
+{
+  "id": "milos-pokorny",
+  "name": "Miloš Pokorný",
+  "first": "Miloš",
+  "last": "Pokorný",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "PO",
+  "role": "učitel",
+  "room": "kab. PRA",
+  "phone": "251092139",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "ELE",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ELE (U8)"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "ELE",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ELE (U8)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "ELE",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I ELE (U20)"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "ELE",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I ELE (U20)"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "ELE",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B ELE (U15)"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "ELE",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B ELE (U15)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "ELE",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A ELE (U17)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "ELE",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A ELE (U17)"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ELE (ELL2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ELE (ELL2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ELE (ELL2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ELE (ELL2) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "PCV",
+      "room": "ELL2",
+      "group": "3/3",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PCV (ELL2) · 3/3"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "PCV",
+      "room": "ELL2",
+      "group": "3/3",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PCV (ELL2) · 3/3"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A ELE (ELL2) · 1/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A ELE (ELL2) · 1/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B ELE (ELL2) · 1/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B ELE (ELL2) · 1/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C ELE (ELL2) · 1/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 9,
+      "subject": "ELE",
+      "room": "ELL2",
+      "group": "1/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C ELE (ELL2) · 1/2 · even"
+    }
+  ],
+  "subjects": [
+    "ELE",
+    "PCV"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

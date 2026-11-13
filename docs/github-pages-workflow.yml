@@ -1,0 +1,68 @@
+name: Žákovský rozcestník · celá škola
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '7,17,27,37,47,57 4-15 * * 1-5'
+    - cron: '17 3 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      # One-time source transport through GitHub's uploader. No credentials or database.
+      - name: Rozbalit první vydání do repozitáře
+        shell: bash
+        run: |
+          if compgen -G 'source.tar.gz.part-*' > /dev/null; then
+            cat source.tar.gz.part-* > "$RUNNER_TEMP/source.tar.gz"
+            (cd "$RUNNER_TEMP" && sha256sum -c "$GITHUB_WORKSPACE/source.sha256")
+            tar -xzf "$RUNNER_TEMP/source.tar.gz" --no-same-owner
+            rm source.tar.gz.part-* source.sha256
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add .
+            git commit -m 'Import schoolwide v2: 20 classes, 56 profiles and shared calendar'
+            git push origin HEAD:main
+          fi
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Nastavit Pages
+        uses: actions/configure-pages@v5
+      - name: Načíst veřejný redakční obsah
+        shell: bash
+        run: |
+          curl --fail --location --max-time 30 'https://betlemska-studentsky-rozcestnik.woodsy-toast-3721.chatgpt.site/api/content' -o "$RUNNER_TEMP/public-content.json" || cp docs/public-content-snapshot.json "$RUNNER_TEMP/public-content.json"
+      - name: Sestavit veřejný export
+        run: python tools/export-github.py --content "$RUNNER_TEMP/public-content.json" --output-dir "$RUNNER_TEMP/pages"
+      - name: Zkontrolovat veřejnou verzi
+        working-directory: ${{ runner.temp }}/pages
+        run: |
+          python tools/security-check.py --export _site
+          python -m unittest discover -s tests -p 'test_*.py'
+          node tests/static-export.cjs
+          node tests/offline.cjs
+          node tests/daily-tools.cjs
+          node tests/menu-parser.test.mjs
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/pages/_site
+      - name: Zveřejnit
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-03",
+  "mode": "Built-in image_gen.imagegen, identity-preserving reference edits",
+  "outputs": [
+    "public/assets/portraits/hynek-petros-20261103.webp",
+    "public/assets/portraits/miriam-humeova-20261103.webp"
+  ],
+  "encoding": "1024x1024 WebP quality95, alpha preserved; large PNG originals generated separately",
+  "prompts": {
+    "hynek": "Use case: identity-preserve. Edit the supplied reference photo into ONE high quality circular headshot for a professional gray school directory. Tight head and very little shoulders, complete hair and head visible, face large within the circle. Preserve the exact person's facial identity, age, hair, original head pose, gaze, expression, skin tone and any visible accessories. Natural gentle restoration of softness, noise and compression only; do not invent fine detail or change facial features. Neutral softly lit gray background inside the circle, true transparency outside. Remove old circular border, bars, interface and unrelated background. No text, frames, watermark, beauty retouch or change of clothing. Subject: the man with medium-length brown hair, light moustache and beard, black T-shirt, looking slightly to his left. Preserve his subtle smile. Crop out sunglasses on the chest and all shirt lettering.",
+    "miriam": "Use case: identity-preserve. Edit the supplied reference photo into ONE high quality circular headshot for a professional gray school directory. Tight head and very little shoulders, complete hair and head visible, face large within the circle. Preserve the exact person's facial identity, age, hair, original head pose, gaze, expression, skin tone and any visible accessories. Natural gentle restoration of softness, noise and compression only; do not invent fine detail or change facial features. Neutral softly lit gray background inside the circle, true transparency outside. Remove old circular border, bars, interface and unrelated background. No text, frames, watermark, beauty retouch or change of clothing. Subject: the woman with long brown hair and a small floral earring, looking over her shoulder. Preserve the original face angle, expression and earring. Keep the original pose; do not make a frontal face. Exclude sunset background."
+  }
+}

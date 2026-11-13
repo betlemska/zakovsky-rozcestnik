@@ -1,0 +1,270 @@
+{
+  "id": "jan-kulhanek",
+  "name": "Jan Kulhánek",
+  "first": "Jan",
+  "last": "Kulhánek",
+  "title": "",
+  "suffix": "",
+  "code": "KJ",
+  "role": "učitel",
+  "room": "kab. PRA",
+  "phone": "251092139",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A PRA (SVA) · 1/3"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A PRA (SVA) · 1/3"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "PRA",
+      "room": "SVA",
+      "group": "1/3",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A PRA (SVA) · 1/3"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "1/3",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B PRA (KOV) · 1/3"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "1/3",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B PRA (KOV) · 1/3"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "1/3",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B PRA (KOV) · 1/3"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "1/3",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C PRA (KOV) · 1/3"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "1/3",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C PRA (KOV) · 1/3"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "1/3",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C PRA (KOV) · 1/3"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "2/3",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A PRA (KOV) · 2/3"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "2/3",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A PRA (KOV) · 2/3"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "PRA",
+      "room": "KOV",
+      "group": "2/3",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A PRA (KOV) · 2/3"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "PCV",
+      "room": "KOV",
+      "group": "2/3P",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L PCV (KOV) · 2/3P"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "PCV",
+      "room": "KOV",
+      "group": "2/3P",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L PCV (KOV) · 2/3P"
+    }
+  ],
+  "subjects": [
+    "PCV",
+    "PRA"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

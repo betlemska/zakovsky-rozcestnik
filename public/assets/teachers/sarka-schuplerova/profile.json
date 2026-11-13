@@ -1,0 +1,235 @@
+{
+  "id": "sarka-schuplerova",
+  "name": "Šárka Schuplerová",
+  "first": "Šárka",
+  "last": "Schuplerová",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "SA",
+  "role": "učitelka, rozvrhářka",
+  "room": "kab. CAD",
+  "phone": "251092117",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "MEC",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A MEC (U12)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "MEC",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B MEC (U12)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C MEC (U12)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "MEC",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A MEC (U17)"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "MEC",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C MEC (U12)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "MEC",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A MEC (U12)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B MEC (U12)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "MEC",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B MEC (U15)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "MEC",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A MEC (U17)"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "MEC",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A MEC (U17)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B MEC (U15)"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "MEC",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B MEC (U15)"
+    }
+  ],
+  "subjects": [
+    "MEC"
+  ],
+  "duties": "",
+  "fallbackAvatar": "female",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

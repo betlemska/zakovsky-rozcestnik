@@ -1,0 +1,511 @@
+{
+  "id": "2.C",
+  "label": "2.C",
+  "year": 2,
+  "representatives": [
+    {
+      "role": "Předseda",
+      "name": "Předseda 2.C"
+    },
+    {
+      "role": "Zástupce",
+      "name": "Zástupce 2.C"
+    }
+  ],
+  "classTeacherId": "jaroslav-kricka",
+  "validFrom": "2026-10-12",
+  "source": "",
+  "sourcePhoto": "",
+  "lessons": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "MAT",
+      "teacherId": "jan-lexa",
+      "teacherCodes": "LX",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "ELE",
+      "teacherId": "milos-pokorny",
+      "teacherCodes": "PO",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "ELE",
+      "teacherId": "milos-pokorny",
+      "teacherCodes": "PO",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "SPS",
+      "teacherId": "jaroslav-kricka",
+      "teacherCodes": "KŘ",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "CJL",
+      "teacherId": "barbora-pivonkova",
+      "teacherCodes": "PB",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "MEC",
+      "teacherId": "karel-bernat",
+      "teacherCodes": "BK",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "OBN",
+      "teacherId": "vaclav-kadlec",
+      "teacherCodes": "KC",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "CJL",
+      "teacherId": "barbora-pivonkova",
+      "teacherCodes": "PB",
+      "room": "U5",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "CJL",
+      "teacherId": "barbora-pivonkova",
+      "teacherCodes": "PB",
+      "room": "U5",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "MAT",
+      "teacherId": "jan-lexa",
+      "teacherCodes": "LX",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "SPS",
+      "teacherId": "jaroslav-kricka",
+      "teacherCodes": "KŘ",
+      "room": "SPS",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "PRA",
+      "teacherId": "jan-kulhanek",
+      "teacherCodes": "KJ",
+      "room": "KOV",
+      "group": "1/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "PRA",
+      "teacherId": "bohumil-jahoda",
+      "teacherCodes": "JB",
+      "room": "ZAM",
+      "group": "2/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "PRA",
+      "teacherId": "miloslav-kulisek",
+      "teacherCodes": "KM",
+      "room": "TRU",
+      "group": "3/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "PRA",
+      "teacherId": "jan-kulhanek",
+      "teacherCodes": "KJ",
+      "room": "KOV",
+      "group": "1/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "PRA",
+      "teacherId": "bohumil-jahoda",
+      "teacherCodes": "JB",
+      "room": "ZAM",
+      "group": "2/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "PRA",
+      "teacherId": "miloslav-kulisek",
+      "teacherCodes": "KM",
+      "room": "TRU",
+      "group": "3/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "PRA",
+      "teacherId": "jan-kulhanek",
+      "teacherCodes": "KJ",
+      "room": "KOV",
+      "group": "1/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "PRA",
+      "teacherId": "bohumil-jahoda",
+      "teacherCodes": "JB",
+      "room": "ZAM",
+      "group": "2/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "PRA",
+      "teacherId": "miloslav-kulisek",
+      "teacherCodes": "KM",
+      "room": "TRU",
+      "group": "3/3",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "ANJ",
+      "teacherId": "pavel-pokorny",
+      "teacherCodes": "PP",
+      "room": "CIJ2",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "ANJ",
+      "teacherId": "katerina-tycova",
+      "teacherCodes": "TK",
+      "room": "CIJ1",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "ANJ",
+      "teacherId": "pavel-pokorny",
+      "teacherCodes": "PP",
+      "room": "CIJ2",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "ANJ",
+      "teacherId": "katerina-tycova",
+      "teacherCodes": "TK",
+      "room": "CIJ1",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "DEJ",
+      "teacherId": "barbora-pivonkova",
+      "teacherCodes": "PB",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "MAT",
+      "teacherId": "jan-lexa",
+      "teacherCodes": "LX",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "STT",
+      "teacherId": "eva-landkammerova",
+      "teacherCodes": "LE",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "ICT",
+      "teacherId": "jan-lexa",
+      "teacherCodes": "LX",
+      "room": "VYT2",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "ICT",
+      "teacherId": "filip-kratky",
+      "teacherCodes": "KF",
+      "room": "U21",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "ICT",
+      "teacherId": "jan-lexa",
+      "teacherCodes": "LX",
+      "room": "VYT2",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "ICT",
+      "teacherId": "filip-kratky",
+      "teacherCodes": "KF",
+      "room": "U21",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "CAD",
+      "teacherId": "miriam-humeova",
+      "teacherCodes": "HU",
+      "room": "VYT3",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 2,
+      "hour": 9,
+      "subject": "CAD",
+      "teacherId": "miriam-humeova",
+      "teacherCodes": "HU",
+      "room": "VYT3",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "TEV",
+      "teacherId": "vladislav-liszok",
+      "teacherCodes": "LV",
+      "room": "TEV1",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "TEV",
+      "teacherId": "miloslav-balek",
+      "teacherCodes": "BA",
+      "room": "TEV2",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "TEV",
+      "teacherId": "vladislav-liszok",
+      "teacherCodes": "LV",
+      "room": "TEV1",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "TEV",
+      "teacherId": "miloslav-balek",
+      "teacherCodes": "BA",
+      "room": "TEV2",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "SPS",
+      "teacherId": "jaroslav-kricka",
+      "teacherCodes": "KŘ",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "SPS",
+      "teacherId": "jaroslav-kricka",
+      "teacherCodes": "KŘ",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "STT",
+      "teacherId": "eva-landkammerova",
+      "teacherCodes": "LE",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "MEC",
+      "teacherId": "karel-bernat",
+      "teacherCodes": "BK",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "MEC",
+      "teacherId": "karel-bernat",
+      "teacherCodes": "BK",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "CAD",
+      "teacherId": "miriam-humeova",
+      "teacherCodes": "HU",
+      "room": "VYT3",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 3,
+      "hour": 9,
+      "subject": "CAD",
+      "teacherId": "miriam-humeova",
+      "teacherCodes": "HU",
+      "room": "VYT3",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "FYZ",
+      "teacherId": "jiri-gotz",
+      "teacherCodes": "GJ",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "EKO",
+      "teacherId": "radka-stefanakova",
+      "teacherCodes": "SR",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "ANJ",
+      "teacherId": "pavel-pokorny",
+      "teacherCodes": "PP",
+      "room": "CIJ5",
+      "group": "1/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "ANJ",
+      "teacherId": "katerina-tycova",
+      "teacherCodes": "TK",
+      "room": "CIJ1",
+      "group": "2/2",
+      "weekPattern": ""
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "FYZ",
+      "teacherId": "jiri-gotz",
+      "teacherCodes": "GJ",
+      "room": "U8",
+      "group": "",
+      "weekPattern": ""
+    }
+  ]
+}

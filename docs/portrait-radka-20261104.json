@@ -1,0 +1,7 @@
+{
+  "date": "2026-11-04",
+  "mode": "Built-in image_gen.imagegen reference edit",
+  "output": "public/assets/portraits/radka-stefanakova-20261104.webp",
+  "encoding": "1024x1024 WebP q95 alpha",
+  "prompt": "Use case: restoration-cleanup. Edit target: the supplied photograph of Radka Štefaňáková. Asset: one circular high-quality 1024x1024 teacher directory headshot for a professional gray school portal. Tight crop of the woman's entire head, hair, chin and only very little shoulders. Preserve exactly her identity, age, facial proportions, original head tilt, gaze slightly to her left, gentle closed-mouth smile, blue eyes, short auburn side-parted hair, skin tone and original clothing visible at lower edge. Gently clean compression noise and improve exposure and natural sharpness; no beauty retouching, no invented facial features, no change of expression or age. Replace the teddy bears and background with soft neutral gray INSIDE the circle. True transparent alpha OUTSIDE the circular portrait. Clean antialiased circle, no border, no text, logo or watermark. Keep complete hair within frame with a little breathing room. Do not straighten or rotate her head, keep source pose."
+}

@@ -1,0 +1,469 @@
+{
+  "id": "ondrej-ruzicka",
+  "name": "Ondřej Růžička",
+  "first": "Ondřej",
+  "last": "Růžička",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "RO",
+  "role": "učitel",
+  "room": "kab. 3",
+  "phone": "251092124",
+  "classroom": "3. C",
+  "email": "ondrej.ruzicka@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "PKC",
+      "room": "VYT3",
+      "group": "PKC2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C PKC (VYT3) · PKC2"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "PKC",
+      "room": "VYT3",
+      "group": "PKC2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C PKC (VYT3) · PKC2"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C SPS (SPS)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C SPS (SPS)"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "MEC",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C MEC (SB)"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "SPS",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A SPS (U9)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A SPS (SPS)"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "SPS",
+      "room": "U18",
+      "group": "",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C SPS (U18)"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B SPS (SPS)"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C SPS (SPS)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "MEC",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C MEC (U16)"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "SPS",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C SPS (U14)"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C SPS (SPS)"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "PKC",
+      "room": "VYT1",
+      "group": "PKC1",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C PKC (VYT1) · PKC1"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "PKC",
+      "room": "VYT1",
+      "group": "PKC1",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C PKC (VYT1) · PKC1"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B SPS (SPS)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "MEC",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C MEC (SB)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "SPS",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B SPS (U15)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A SPS (SPS)"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "SPS",
+      "room": "U18",
+      "group": "",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C SPS (U18)"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B SPS (SPS)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "SPS",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C SPS (U14)"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "MEC",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C MEC (SB)"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A SPS (SPS)"
+    }
+  ],
+  "subjects": [
+    "MEC",
+    "PKC",
+    "SPS"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nPá: 7. hod\nDohled v 1. patře (1.P)\nČt: před 1., 4. hod;\nPá: před 4., 7. hod",
+  "pdf": "",
+  "photo": "assets/portraits/ondrej-ruzicka-20261103.webp",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-11-03",
+  "fallbackAvatar": "male",
+  "bio": "V komunálních volbách v roce 2026 byl zvolen do Zastupitelstva městské části Praha 4. Další veřejné informace jsou dostupné na webu městské části.",
+  "externalLinks": [
+    {
+      "label": "Veřejný profil · Praha 4",
+      "url": "https://praha4.cz/kontakty-p4/ruzicka-ondrej/"
+    },
+    {
+      "label": "Výsledky voleb 2026 · Praha 4",
+      "url": "https://tucnak.praha4.cz/11-2026/vysledky-komunalnich-voleb-2026"
+    },
+    {
+      "label": "Facebook · dodaná fotografie",
+      "url": "https://www.facebook.com/photo?fbid=1157584033134822&set=pb.100066497079135.-2207520000."
+    },
+    {
+      "label": "StreTech 2024 · vedený studentský projekt",
+      "url": "https://stretech.fs.cvut.cz/2024/sbornik_2024/pdf/69.pdf"
+    }
+  ],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

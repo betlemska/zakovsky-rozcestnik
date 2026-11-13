@@ -1,0 +1,408 @@
+{
+  "id": "miriam-humeova",
+  "name": "Miriam Humeová",
+  "first": "Miriam",
+  "last": "Humeová",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "HU",
+  "role": "učitelka",
+  "room": "kab. 3",
+  "phone": "251092124",
+  "classroom": "1. A",
+  "email": "miriam.humeova@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "CAD",
+      "room": "VYT1",
+      "group": "1/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B CAD (VYT1) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "CAD",
+      "room": "VYT1",
+      "group": "1/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B CAD (VYT1) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "STT",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A STT (U7)"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "STT",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C STT (U14)"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "TEK",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A TEK (U7)"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "TEK",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A TEK (U7)"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "CAD",
+      "room": "U17",
+      "group": "1/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A CAD (U17) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A CAD (CAD) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "STT",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A STT (U7)"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "CAD",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B CAD (VYT3) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "CAD",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B CAD (VYT3) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "CAD",
+      "room": "VYT3",
+      "group": "1/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C CAD (VYT3) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 9,
+      "subject": "CAD",
+      "room": "VYT3",
+      "group": "1/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C CAD (VYT3) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "STT",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C STT (U14)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "STT",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A STT (U7)"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "CAD",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A CAD (VYT3) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "CAD",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A CAD (VYT3) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "TEK",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A TEK (U7)"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "CAD",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C CAD (VYT3) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 9,
+      "subject": "CAD",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C CAD (VYT3) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "STT",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C STT (U14)"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "TEK",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A TEK (U7)"
+    }
+  ],
+  "subjects": [
+    "CAD",
+    "STT",
+    "TEK"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nČt: 3. hod; Pá: 5. hod\nDohled v 1. patře (1.P)\nČt: před 9. hod;\nPá: před 6. hod",
+  "pdf": "",
+  "fallbackAvatar": "female",
+  "photo": "assets/portraits/miriam-humeova-20261103.webp",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-11-03",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

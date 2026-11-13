@@ -1,0 +1,304 @@
+{
+  "id": "tadeas-sal",
+  "name": "Tadeáš Sál",
+  "first": "Tadeáš",
+  "last": "Sál",
+  "title": "Bc.",
+  "suffix": "",
+  "code": "ST",
+  "role": "učitel",
+  "room": "kab. CAD",
+  "phone": "251092117",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "CDM",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L CDM (CAD) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "CDM",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L CDM (CAD) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B CAD (CAD) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B CAD (CAD) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A CAD (CAD) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A CAD (CAD) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "CDM",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L CDM (CAD) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "CDM",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L CDM (CAD) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B CAD (CAD) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B CAD (CAD) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C CAD (CAD) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C CAD (CAD) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C CAD (CAD) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C CAD (CAD) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A CAD (CAD) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A CAD (CAD) · 1/2"
+    }
+  ],
+  "subjects": [
+    "CAD",
+    "CDM"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

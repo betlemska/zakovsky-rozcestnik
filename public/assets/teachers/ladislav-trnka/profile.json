@@ -1,0 +1,459 @@
+{
+  "id": "ladislav-trnka",
+  "name": "Ladislav Trnka",
+  "first": "Ladislav",
+  "last": "Trnka",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "TR",
+  "role": "učitel",
+  "room": "kab. 5",
+  "phone": "251092175",
+  "classroom": "",
+  "email": "ladislav.trnka@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "ICT",
+      "room": "HRW",
+      "group": "2/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A ICT (HRW) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "ICT",
+      "room": "HRW",
+      "group": "2/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A ICT (HRW) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "FYZ",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I FYZ (U3)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "FYZ",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I FYZ (U3)"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "2/2",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B ICT (VYT2) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "2/2",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B ICT (VYT2) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 9,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "CHE",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L CHE (U5)"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "CHE",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L CHE (U5)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "CHE",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L CHE (U1)"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "CHE",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L CHE (U1)"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "CHE",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L CHE (U16)"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "CHE",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L CHE (U16)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "ICT",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C ICT (VYT3) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "ICT",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C ICT (VYT3) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "CHE",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L CHE (U1)"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "2/2",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L ICT (VYT2) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "2/2",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L ICT (VYT2) · 2/2"
+    }
+  ],
+  "subjects": [
+    "CHE",
+    "FYZ",
+    "ICT"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nÚt: 6. hod; Čt: 6. hod\nDohled v přízemí (PŘ)\nPá: před 3. hod\nDohled v 1. patře (1.P)\nPo: před 9. hod;\nÚt: před 8., 9. hod;\nSt: před 8. hod",
+  "pdf": "",
+  "photo": "assets/portraits/ladislav-trnka.png",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-10-27",
+  "fallbackAvatar": "male",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

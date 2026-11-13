@@ -1,0 +1,271 @@
+{
+  "id": "petr-capek",
+  "name": "Petr Čapek",
+  "first": "Petr",
+  "last": "Čapek",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "CP",
+  "role": "učitel",
+  "room": "kab. 8",
+  "phone": "251092106",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "TEK",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B TEK (SPS)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "TEK",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B TEK (SPS)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "STT",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B STT (STT)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "STT",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B STT (U10)"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "STT",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C STT (STT)"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "ZKT",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I ZKT (U3)"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "STT",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C STT (STT)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "STT",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B STT (U10)"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "STT",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B STT (U10)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "ZKT",
+      "room": "U13",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I ZKT (U13)"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "TEK",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B TEK (U10)"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "TEK",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B TEK (U10)"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "STT",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C STT (STT)"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "STT",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B STT (U15)"
+    }
+  ],
+  "subjects": [
+    "STT",
+    "TEK",
+    "ZKT"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

@@ -1,0 +1,437 @@
+{
+  "id": "karel-bernat",
+  "name": "Karel Bernat",
+  "first": "Karel",
+  "last": "Bernat",
+  "title": "Ing. Bc.",
+  "suffix": "",
+  "code": "BK",
+  "role": "učitel",
+  "room": "kab. 15",
+  "phone": "251092136",
+  "classroom": "",
+  "email": "karel.bernat@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "MEC",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B MEC (U10)"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "MEC",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B MEC (U10)"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A MEC (U7)"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "MEC",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C MEC (U8)"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "TVB",
+      "room": "U12",
+      "group": "TVB",
+      "classes": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.A, 4.B, 4.C",
+      "raw": "4.A, 4.B, 4.C TVB (U12) · TVB"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "TVB",
+      "room": "STT",
+      "group": "TVB",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C TVB (STT) · TVB"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "TVB",
+      "room": "STT",
+      "group": "TVB",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C TVB (STT) · TVB"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A MEC (U7)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "MEC",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B MEC (U10)"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "PVB",
+      "room": "U21",
+      "group": "TVB",
+      "classes": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.A, 4.B, 4.C",
+      "raw": "4.A, 4.B, 4.C PVB (U21) · TVB"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "PVB",
+      "room": "U21",
+      "group": "TVB",
+      "classes": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.A, 4.B, 4.C",
+      "raw": "4.A, 4.B, 4.C PVB (U21) · TVB"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "PVB",
+      "room": "U21",
+      "group": "TVB",
+      "classes": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.A, 4.B, 4.C",
+      "raw": "4.A, 4.B, 4.C PVB (U21) · TVB"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "TVB",
+      "room": "STT",
+      "group": "TVB",
+      "classes": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.A, 4.B, 4.C",
+      "raw": "4.A, 4.B, 4.C TVB (STT) · TVB"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "TVB",
+      "room": "STT",
+      "group": "TVB",
+      "classes": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A",
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.A, 4.B, 4.C",
+      "raw": "4.A, 4.B, 4.C TVB (STT) · TVB"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A MEC (U7)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "MEC",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A MEC (U7)"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "PVB",
+      "room": "U21",
+      "group": "TVB",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C PVB (U21) · TVB"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "PVB",
+      "room": "U21",
+      "group": "TVB",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C PVB (U21) · TVB"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "MEC",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C MEC (U8)"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "MEC",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C MEC (U8)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B MEC (U10)"
+    }
+  ],
+  "subjects": [
+    "MEC",
+    "PVB",
+    "TVB"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nSt: 5. hod; Pá: 2. hod\nDohled ve 2. patře (2.P)\nÚt: před 4. hod\nDohled v jídelně (JD)\nPo: před 5. hod",
+  "pdf": "",
+  "photo": "assets/portraits/karel-bernat-20261104.png",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-11-04",
+  "fallbackAvatar": "male",
+  "externalLinks": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/bernat_karel/"
+    }
+  ],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

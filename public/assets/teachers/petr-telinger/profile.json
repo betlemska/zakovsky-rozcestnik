@@ -1,0 +1,407 @@
+{
+  "id": "petr-telinger",
+  "name": "Petr Telinger",
+  "first": "Petr",
+  "last": "Telinger",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "TP",
+  "role": "učitel",
+  "room": "kab. 5",
+  "phone": "251092175",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "OPS",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I OPS (U21) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "OPS",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I OPS (U21) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "IT",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I IT (U21) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "IT",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I IT (U21) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "subject": "ICT",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L ICT (U21) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 9,
+      "subject": "ICT",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L ICT (U21) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "IT",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I IT (U21) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "IT",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I IT (U21) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "OPS",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I OPS (U21) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "OPS",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I OPS (U21) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "OPS",
+      "room": "HRW",
+      "group": "2/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I OPS (HRW) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "OPS",
+      "room": "HRW",
+      "group": "2/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I OPS (HRW) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "OPS",
+      "room": "HRW",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I OPS (HRW) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "OPS",
+      "room": "HRW",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I OPS (HRW) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "OPS",
+      "room": "HRW",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I OPS (HRW) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "OPS",
+      "room": "HRW",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I OPS (HRW) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "ICT",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I ICT (U21) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "ICT",
+      "room": "U21",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I ICT (U21) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "OPS",
+      "room": "HRW",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I OPS (HRW) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "OPS",
+      "room": "HRW",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I OPS (HRW) · 1/2"
+    }
+  ],
+  "subjects": [
+    "ICT",
+    "IT",
+    "OPS"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

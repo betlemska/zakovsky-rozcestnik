@@ -1,0 +1,236 @@
+{
+  "id": "jan-telinger",
+  "name": "Jan Telinger",
+  "first": "Jan",
+  "last": "Telinger",
+  "title": "",
+  "suffix": "",
+  "code": "TL",
+  "role": "učitel",
+  "room": "kab. 8",
+  "phone": "251092106",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "PVA",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I PVA (U21) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "PVA",
+      "room": "U21",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I PVA (U21) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "ICT",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A ICT (VYT3) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "ICT",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A ICT (VYT3) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "ICT",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ICT (VYT4) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "ICT",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ICT (VYT4) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "PVA",
+      "room": "VYT2",
+      "group": "2/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I PVA (VYT2) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "PVA",
+      "room": "VYT2",
+      "group": "2/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I PVA (VYT2) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "PVA",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I PVA (VYT3) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "PVA",
+      "room": "VYT3",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I PVA (VYT3) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "PVA",
+      "room": "VYT3",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PVA (VYT3) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "PVA",
+      "room": "VYT3",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PVA (VYT3) · 1/2"
+    }
+  ],
+  "subjects": [
+    "ICT",
+    "PVA"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

@@ -1,0 +1,450 @@
+{
+  "id": "martin-ambros",
+  "name": "Martin Ambros",
+  "first": "Martin",
+  "last": "Ambros",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "AM",
+  "role": "učitel",
+  "room": "kab. CAM",
+  "phone": "251092127",
+  "classroom": "2.A",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "ANJc",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B KOM (KOM1) · ANJc"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "ANJc",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B KOM (KOM1) · ANJc"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "CAM1",
+      "room": "VYT1",
+      "group": "CAD",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C CAM1 (VYT1) · CAD"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "CAM1",
+      "room": "VYT1",
+      "group": "CAD",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C CAM1 (VYT1) · CAD"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "STT",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A STT (STT)"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "STT",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A STT (U17)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "ANJc",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A KOM (KOM1) · ANJc"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "ANJc",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A KOM (KOM1) · ANJc"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "CAMi",
+      "room": "VYT1",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CAMi (VYT1) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "CAMi",
+      "room": "VYT1",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CAMi (VYT1) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "CAMi",
+      "room": "VYT1",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CAMi (VYT1) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "CAMi",
+      "room": "VYT1",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CAMi (VYT1) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A KOM (KOM1) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A KOM (KOM1) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L KOM (KOM1) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "KOM",
+      "room": "KOM1",
+      "group": "1/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L KOM (KOM1) · 1/2"
+    }
+  ],
+  "subjects": [
+    "CAM1",
+    "CAMi",
+    "KOM",
+    "STT"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

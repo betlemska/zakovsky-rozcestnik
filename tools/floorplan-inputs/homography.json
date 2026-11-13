@@ -1,0 +1,252 @@
+{
+  "matrix": [
+    [
+      1.152870855407134,
+      0.08805283274292759,
+      -14.789760902522676
+    ],
+    [
+      0.060830211375743314,
+      1.1450215126568053,
+      -73.46643831968048
+    ],
+    [
+      7.420716022024904e-05,
+      7.788421276872227e-05,
+      1.0
+    ]
+  ],
+  "anchors": {
+    "source": [
+      [
+        38,
+        254
+      ],
+      [
+        843,
+        66
+      ],
+      [
+        807,
+        713
+      ],
+      [
+        74,
+        719
+      ]
+    ],
+    "target": [
+      [
+        50.249,
+        214.825
+      ],
+      [
+        901.84,
+        50.0
+      ],
+      [
+        877.124,
+        710.07
+      ],
+      [
+        126.08,
+        710.61
+      ]
+    ]
+  },
+  "checks": [
+    {
+      "name": "Top right chamfer",
+      "source": [
+        864,
+        82
+      ],
+      "transformed": [
+        923.4092600101071,
+        68.17611082337747
+      ],
+      "target": [
+        930.0,
+        70.686
+      ],
+      "difference_m": 0.631
+    },
+    {
+      "name": "Bottom right chamfer",
+      "source": [
+        831,
+        687
+      ],
+      "transformed": [
+        900.0743132957635,
+        684.8386012834368
+      ],
+      "target": [
+        894.808,
+        688.658
+      ],
+      "difference_m": 0.582
+    },
+    {
+      "name": "Open courtyard bottom left",
+      "source": [
+        54,
+        506
+      ],
+      "transformed": [
+        88.1910435449982,
+        488.0114800955759
+      ],
+      "target": [
+        92.065,
+        492.725
+      ],
+      "difference_m": 0.546
+    },
+    {
+      "name": "Open courtyard top",
+      "source": [
+        49,
+        444
+      ],
+      "transformed": [
+        77.82225573395513,
+        421.78456215274724
+      ],
+      "target": [
+        80.545,
+        420.713
+      ],
+      "difference_m": 0.262
+    },
+    {
+      "name": "Open courtyard centre",
+      "source": [
+        325,
+        310
+      ],
+      "transformed": [
+        369.3636272928349,
+        287.3901870359635
+      ],
+      "target": [
+        362.214,
+        369.312
+      ],
+      "difference_m": 7.359
+    },
+    {
+      "name": "Open courtyard lower centre",
+      "source": [
+        313,
+        585
+      ],
+      "transformed": [
+        371.98145256579886,
+        575.8020918345194
+      ],
+      "target": [
+        363.391,
+        569.136
+      ],
+      "difference_m": 0.973
+    },
+    {
+      "name": "WC lower left extent",
+      "source": [
+        171,
+        502
+      ],
+      "transformed": [
+        215.39875750518877,
+        486.5397476893292
+      ],
+      "target": [
+        214.245,
+        492.094
+      ],
+      "difference_m": 0.508
+    },
+    {
+      "name": "Enclosed courtyard top left",
+      "source": [
+        514,
+        270
+      ],
+      "transformed": [
+        567.9536164760966,
+        252.04244059717755
+      ],
+      "target": [
+        565.807,
+        255.892
+      ],
+      "difference_m": 0.394
+    },
+    {
+      "name": "Enclosed courtyard bottom left",
+      "source": [
+        500,
+        582
+      ],
+      "transformed": [
+        566.2178379581491,
+        575.8801266030055
+      ],
+      "target": [
+        568.666,
+        573.516
+      ],
+      "difference_m": 0.305
+    },
+    {
+      "name": "Enclosed courtyard stairs",
+      "source": [
+        621,
+        507
+      ],
+      "transformed": [
+        686.999333158975,
+        501.88846300582105
+      ],
+      "target": [
+        676.919,
+        502.291
+      ],
+      "difference_m": 0.903
+    },
+    {
+      "name": "Enclosed courtyard bottom right",
+      "source": [
+        708,
+        505
+      ],
+      "transformed": [
+        774.7344763826965,
+        501.7420722622432
+      ],
+      "target": [
+        768.1,
+        501.346
+      ],
+      "difference_m": 0.595
+    },
+    {
+      "name": "Enclosed courtyard top right",
+      "source": [
+        726,
+        252
+      ],
+      "transformed": [
+        786.5699435566004,
+        241.49177617486882
+      ],
+      "target": [
+        780.578,
+        249.751
+      ],
+      "difference_m": 0.913
+    }
+  ],
+  "note": "Four primary facade endpoints aligned; other points withheld for comparison. Differences are plan vs registered footprint, not measurement accuracy."
+}

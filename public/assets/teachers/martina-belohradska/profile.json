@@ -1,0 +1,457 @@
+{
+  "id": "martina-belohradska",
+  "name": "Martina Bělohradská",
+  "first": "Martina",
+  "last": "Bělohradská",
+  "title": "",
+  "suffix": "",
+  "code": "BE",
+  "role": "učitelka",
+  "room": "kab. 13",
+  "phone": "251092159",
+  "classroom": "2.L",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "2/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ANJ (CIJ5) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "2/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ANJ (CIJ5) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ANJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ANJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C ANJ (CIJ5) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "ANJm",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B ANJ (CIJ5) · ANJm"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "ANJm",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B ANJ (CIJ5) · ANJm"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ANJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ANJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "SPJ",
+      "room": "CIJ5",
+      "group": "1/3Š",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L SPJ (CIJ5) · 1/3Š"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "SPJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L SPJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "SPJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L SPJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ANJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "SPJ",
+      "room": "CIJ5",
+      "group": "1/2Š",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L SPJ (CIJ5) · 1/2Š"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "SPJ",
+      "room": "CIJ5",
+      "group": "1/2Š",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L SPJ (CIJ5) · 1/2Š"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ANJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "SPJ",
+      "room": "CIJ5",
+      "group": "1/3Š",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L SPJ (CIJ5) · 1/3Š"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "SPJ",
+      "room": "CIJ5",
+      "group": "1/3Š",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L SPJ (CIJ5) · 1/3Š"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "SPJ",
+      "room": "CIJ5",
+      "group": "1/3Š",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L SPJ (CIJ5) · 1/3Š"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "ANJm",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B ANJ (CIJ5) · ANJm"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "2/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ANJ (CIJ5) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C ANJ (CIJ5) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "ANJm",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B ANJ (CIJ5) · ANJm"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C ANJ (CIJ5) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C ANJ (CIJ5) · 2/2"
+    }
+  ],
+  "subjects": [
+    "ANJ",
+    "SPJ"
+  ],
+  "duties": "",
+  "fallbackAvatar": "female",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

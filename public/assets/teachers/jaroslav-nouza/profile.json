@@ -1,0 +1,477 @@
+{
+  "id": "jaroslav-nouza",
+  "name": "Jaroslav Nouza",
+  "first": "Jaroslav",
+  "last": "Nouza",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "NJ",
+  "role": "učitel",
+  "room": "kab. 5",
+  "phone": "251092175",
+  "classroom": "1.I",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I PCS (VYT4) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I PCS (VYT4) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "OPS",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I OPS (VYT4) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "OPS",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I OPS (VYT4) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "OPS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I OPS (VYT4) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "OPS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I OPS (VYT4) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PCS (VYT4) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PCS (VYT4) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "ICT",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ICT (VYT4) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "ICT",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ICT (VYT4) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "PVA",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I PVA (VYT4) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "PVA",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I PVA (VYT4) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "PVA",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I PVA (VYT4) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "PVA",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I PVA (VYT4) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "APS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I APS (VYT4) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "APS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I APS (VYT4) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "ICT",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ICT (VYT4) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "ICT",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ICT (VYT4) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PCS (VYT4) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I PCS (VYT4) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "ICT",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L ICT (VYT4) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "ICT",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L ICT (VYT4) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I PCS (VYT4) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "2/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I PCS (VYT4) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I PCS (VYT4) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "PCS",
+      "room": "VYT4",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I PCS (VYT4) · 1/2"
+    }
+  ],
+  "subjects": [
+    "APS",
+    "ICT",
+    "OPS",
+    "PCS",
+    "PVA"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

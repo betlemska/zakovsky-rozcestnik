@@ -1,0 +1,238 @@
+{
+  "id": "lubomir-martinec",
+  "name": "Lubomír Martinec",
+  "first": "Lubomír",
+  "last": "Martinec",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "ML",
+  "role": "zástupce ředitele",
+  "room": "kancelář zástupců",
+  "phone": "251092101",
+  "email": "lubomir.martinec@betlemska.cz",
+  "emailSource": "Kontakt ověřen ve školních podkladech.",
+  "classroom": "",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L MAT (U1)"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "MAT",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L MAT (U16)"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "MAT",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B MAT (U20)"
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "subject": "MAT",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B MAT (U20)"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "MAT",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L MAT (U1)"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "MAT",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L MAT (U1)"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B MAT (U12)"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "MAT",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L MAT (U16)"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "MAT",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L MAT (U16)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "MAT",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L MAT (U16)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L MAT (U1)"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B MAT (U12)"
+    }
+  ],
+  "subjects": [
+    "MAT"
+  ],
+  "duties": "",
+  "scheduleSource": "",
+  "scheduleSourceType": "image",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleAdded": "2026-10-27",
+  "photo": "assets/portraits/lubomir-martinec.png",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-10-27",
+  "fallbackAvatar": "male",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "pdf": ""
+}

@@ -1,0 +1,384 @@
+{
+  "id": "jakub-petrak",
+  "name": "Jakub Petrák",
+  "first": "Jakub",
+  "last": "Petrák",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "PJ",
+  "role": "učitel",
+  "room": "kab. 18",
+  "phone": "251092141",
+  "classroom": "3. B",
+  "email": "jakub.petrak@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B TEV (TEV1)"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B TEV (TEV1)"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C TEV (TEV1)"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C TEV (TEV1)"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "TEV",
+      "room": "TEV1",
+      "group": "1/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A TEV (TEV1) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [
+        "vladislav-liszok"
+      ],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "jointTeaching": "Společný tělocvik: 1.A (2/2) a 1.C (1/2), Jakub Petrák a Vladislav Liszok.",
+      "cls": "1.A",
+      "raw": "1.A TEV (TEV2) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "TEV",
+      "room": "TEV2",
+      "group": "2/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [
+        "vladislav-liszok"
+      ],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "jointTeaching": "Společný tělocvik: 1.A (2/2) a 1.C (1/2), Jakub Petrák a Vladislav Liszok.",
+      "cls": "1.A",
+      "raw": "1.A TEV (TEV2) · 2/2"
+    }
+  ],
+  "subjects": [
+    "TEV"
+  ],
+  "duties": "Dohled ve 2. patře (2.P)\nÚt: před 5., 7. hod;\nSt: před 3. hod",
+  "pdf": "",
+  "photo": "assets/portraits/jakub-petrak.png",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-10-27",
+  "fallbackAvatar": "male",
+  "externalLinks": [
+    {
+      "label": "Osobní web · trenér a výživový poradce",
+      "url": "https://www.jakubpetrak.com/o-mne/"
+    }
+  ],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

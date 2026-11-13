@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import vm from 'node:vm';
+import {readFileSync} from 'node:fs';
+const storage=new Map(),events=[];
+const ctx={Date,Intl,Event,localStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v),removeItem:k=>storage.delete(k)},addEventListener(){},dispatchEvent:e=>events.push(e.type)};ctx.window=ctx;vm.createContext(ctx);
+vm.runInContext(readFileSync(new URL('../public/preview-clock.js',import.meta.url),'utf8'),ctx);
+const c=ctx.BetlemskaPreviewClock;
+c.set('2026-11-11','09:45');assert.equal(c.parts().day,'11');assert.equal(c.parts().hour,'09');assert.equal(c.parts().minute,'45');
+assert.throws(()=>c.set('2026-02-30'));assert.throws(()=>c.set('2026-11-11','24:00'));
+assert.equal(c.read().date,'2026-11-11');c.set('2027-01-01');assert.equal(c.parts().year,'2027');assert.equal(c.read().time,'');
+c.reset();assert.equal(c.read(),null);assert.equal(storage.size,0);assert.equal(events.length,3);
+storage.set(c.key,'{"date":"2026-02-30"}');assert.equal(c.read(),null);
+console.log('Preview clock: fixed Prague date/time, optional real time, invalid input, reset and corrupted storage passed.');

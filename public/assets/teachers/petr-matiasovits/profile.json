@@ -1,0 +1,453 @@
+{
+  "id": "petr-matiasovits",
+  "name": "Petr Matiasovits",
+  "first": "Petr",
+  "last": "Matiasovits",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "MP",
+  "role": "učitel",
+  "room": "kab. CAM",
+  "phone": "251092127",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD1",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B CAD1 (CAM) · CAD1"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD1",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B CAD1 (CAM) · CAD1"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD2",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C CAD1 (CAM) · CAD2"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD2",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C CAD1 (CAM) · CAD2"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CAD1 (CAM) · CAD"
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CAD1 (CAM) · CAD"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD1",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B CAD1 (CAM) · CAD1"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD1",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B CAD1 (CAM) · CAD1"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "CAD",
+      "room": "CAM",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CAD (CAM) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "CAD",
+      "room": "CAM",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CAD (CAM) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "CAM1",
+      "room": "CAM",
+      "group": "CAD2",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C CAM1 (CAM) · CAD2"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "CAM1",
+      "room": "CAM",
+      "group": "CAD2",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C CAM1 (CAM) · CAD2"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD2",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C CAD1 (CAM) · CAD2"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD2",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C CAD1 (CAM) · CAD2"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CAD1 (CAM) · CAD"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CAD1 (CAM) · CAD"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "CAD",
+      "room": "CAM",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CAD (CAM) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "CAD",
+      "room": "CAM",
+      "group": "2/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CAD (CAM) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "CAM1",
+      "room": "CAM",
+      "group": "CAD1",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B CAM1 (CAM) · CAD1"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "CAM1",
+      "room": "CAM",
+      "group": "CAD1",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B CAM1 (CAM) · CAD1"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "CAM1",
+      "room": "CAM",
+      "group": "CAD",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CAM1 (CAM) · CAD"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "CAM1",
+      "room": "CAM",
+      "group": "CAD",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CAM1 (CAM) · CAD"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "CAD",
+      "room": "CAM",
+      "group": "1/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CAD (CAM) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "CAD",
+      "room": "CAM",
+      "group": "1/2",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CAD (CAM) · 1/2"
+    }
+  ],
+  "subjects": [
+    "CAD",
+    "CAD1",
+    "CAM1"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

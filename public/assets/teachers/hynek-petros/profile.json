@@ -1,0 +1,111 @@
+{
+  "id": "hynek-petros",
+  "name": "Hynek Petroš",
+  "first": "Hynek",
+  "last": "Petroš",
+  "title": "",
+  "suffix": "",
+  "code": "PH",
+  "role": "učitel",
+  "room": "kab. 6",
+  "phone": "251092170",
+  "classroom": "",
+  "email": "hynek.petros@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A MAT (U7)"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A MAT (U7)"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A MAT (U7)"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A MAT (U7)"
+    }
+  ],
+  "subjects": [
+    "MAT"
+  ],
+  "duties": "Dohled v 1. patře (1.P)\nÚt: před 5. hod;\nPá: před 5. hod",
+  "pdf": "",
+  "fallbackAvatar": "male",
+  "photo": "assets/portraits/hynek-petros-20261103.webp",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-11-03",
+  "externalLinks": [
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/hynek.petros.5"
+    },
+    {
+      "label": "Bakalářská práce · repozitář UK",
+      "url": "https://dspace.cuni.cz/handle/20.500.11956/212821"
+    }
+  ],
+  "birthDate": "2002-02-21",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

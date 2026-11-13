@@ -1,0 +1,610 @@
+{
+  "id": "lenka-rychlikova",
+  "name": "Lenka Rychlíková",
+  "first": "Lenka",
+  "last": "Rychlíková",
+  "title": "Ing.",
+  "suffix": "Ph.D.",
+  "code": "RL",
+  "role": "učitelka",
+  "room": "kab. 3",
+  "phone": "251092124",
+  "classroom": "3.A",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "STT",
+      "room": "U18",
+      "group": "",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C STT (U18)"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "STT",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B STT (U6)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "STT",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B STT (U12)"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "AUT",
+      "room": "U13",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A AUT (U13)"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "AUT",
+      "room": "U18",
+      "group": "",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C AUT (U18)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "STT",
+      "room": "U18",
+      "group": "",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C STT (U18)"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "STT",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B STT (U6)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "STT",
+      "room": "U13",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A STT (U13)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "STT",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B STT (U15)"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "STT",
+      "room": "U12",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B STT (U12)"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "STT",
+      "room": "U13",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A STT (U13)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "STT",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A STT (STT)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "STT",
+      "room": "U18",
+      "group": "",
+      "classes": [
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.C"
+      ],
+      "cls": "4.C",
+      "raw": "4.C STT (U18)"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "STT",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B STT (U6)"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B AUT (AUL1) · 2/2 · even"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "1/2",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B AUT (AUL1) · 1/2 · odd"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "AUT",
+      "room": "AUL1",
+      "group": "2/2",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "even",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B AUT (AUL1) · 2/2 · even"
+    }
+  ],
+  "subjects": [
+    "AUT",
+    "STT"
+  ],
+  "duties": "",
+  "fallbackAvatar": "female",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

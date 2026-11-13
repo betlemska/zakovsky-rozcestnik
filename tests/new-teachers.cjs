@@ -1,0 +1,20 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const root=fs.existsSync(path.join(__dirname,'../public/assets/data.json'))?path.join(__dirname,'../public'):path.join(__dirname,'..');
+const d=JSON.parse(fs.readFileSync(path.join(root,'assets/data.json'),'utf8'));
+const vm=require('node:vm'),ctx={module:{exports:{}}};vm.runInNewContext(fs.readFileSync(path.join(root,'presence.js'),'utf8'),ctx);const {estimate}=ctx.module.exports;
+assert.equal(d.teachers.length,56);assert.equal(new Set(d.teachers.map(t=>t.id)).size,56);
+const m=d.teachers.find(t=>t.id==='lubomir-martinec'),t=d.teachers.find(t=>t.id==='martin-theimer');
+assert.equal(m.schedule.length,12);assert.equal(t.schedule.length,12);
+assert.deepEqual(m.schedule.filter(l=>l.day===0).map(l=>[l.hour+1,l.cls,l.room]),[[4,'1.L','U1'],[7,'2.L','U16'],[8,'4.B','U20'],[9,'4.B','U20']]);
+assert.deepEqual(t.schedule.filter(l=>l.day===1).map(l=>[l.hour+1,l.cls,l.group]),[[1,'3.I','2/2'],[2,'3.I','2/2'],[3,'2.I','1/2'],[4,'2.I','1/2'],[5,'4.I','2/2'],[6,'4.I','2/2']]);
+assert.equal(estimate(m,'2026-10-26',700,d.events).cls,'yes');
+assert.equal(estimate(m,'2026-10-28',700,d.events).cls,'no');
+assert.equal(estimate(t,'2026-10-27',789,d.events).cls,'yes');
+assert.equal(estimate(t,'2026-10-27',790,d.events).cls,'no');
+const portraits=d.teachers.filter(t=>t.photoKind==='circular-restored');assert.equal(portraits.length,19);
+for(const p of portraits)assert.ok(fs.statSync(path.join(root,p.photo)).size>1000);
+for(const teacher of [m,t])assert.ok(teacher.schedule.length,'Interactive timetable data is preserved without original images');
+console.log('New timetable transcription, presence boundaries and nineteen portrait assets verified.');
+
+const b=d.teachers.find(t=>t.id==='miloslav-balek');
+assert.equal(estimate(b,'2026-11-02',479,d.events).cls,'no');assert.equal(estimate(b,'2026-11-02',480,d.events).cls,'yes');assert.equal(estimate(b,'2026-11-02',789,d.events).cls,'yes');assert.equal(estimate(b,'2026-11-02',790,d.events).cls,'no');assert.equal(estimate(b,'2026-11-04',600,d.events).cls,'no');assert.ok(fs.existsSync(path.join(root,b.scheduleSource)));

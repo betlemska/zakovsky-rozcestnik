@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-10",
+  "teachers": 20,
+  "result": "Original transcriptions match all 17 PDFs and 3 photographs. A 1.A class event incorrectly hid all teachers’ Thursday lessons in the weekly view.",
+  "correction": "Full-day 1.A events affect only 1.A lessons; other classes remain visible. School holidays still apply to all classes.",
+  "userSupplement": "Friday periods 1–2, 1.A group 2/2: Jakub Petrák and Vladislav Liszok teach together; source PDFs remain intact.",
+  "sources": [
+    {
+      "teacherId": "lucie-asali",
+      "name": "Lucie Asali",
+      "source": "assets/lucie-asali.pdf",
+      "sourceSha256": "409d193c364acd27f8e42fbc3481d3f796e88c79b96bbcdf831c710544baff9e",
+      "lessons": 23,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "karel-bernat",
+      "name": "Karel Bernat",
+      "source": "assets/karel-bernat.pdf",
+      "sourceSha256": "33923414dcc543c568a340043e59dbd8b305712995e2dd8d53af3d6becc53326",
+      "lessons": 21,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "ondrej-cervinka",
+      "name": "Ondřej Červinka",
+      "source": "assets/ondrej-cervinka.pdf",
+      "sourceSha256": "8ee77cdc0b840cc4393a17b961f25b173a9139df734a9e9117dae50614fd4c43",
+      "lessons": 14,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "jiri-gotz",
+      "name": "Jiří Götz",
+      "source": "assets/jiri-gotz.pdf",
+      "sourceSha256": "d15868081d0251ec4d94e3bfb3b20a11f73c7a03b85bb4cdd57c85e06e229601",
+      "lessons": 23,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "miriam-humeova",
+      "name": "Miriam Humeová",
+      "source": "assets/miriam-humeova.pdf",
+      "sourceSha256": "9abd1c9963426ec3cc112d954c9b8d3601ced35148acd47a8d420b243c4676cf",
+      "lessons": 22,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "zdenek-kouril",
+      "name": "Zdeněk Kouřil",
+      "source": "assets/zdenek-kouril.pdf",
+      "sourceSha256": "441ea3cfa993302886c7799c6b5e65523bce3ae48619d21204dbf0c76bd7f98c",
+      "lessons": 23,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "vladislav-liszok",
+      "name": "Vladislav Liszok",
+      "source": "assets/vladislav-liszok.pdf",
+      "sourceSha256": "1e96aed183a85b2299b3b86cc78e6592f3f476199fd0cee74916c82edf892c97",
+      "lessons": 24,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "andrea-pavlova",
+      "name": "Andrea Pavlová",
+      "source": "assets/andrea-pavlova.pdf",
+      "sourceSha256": "21db84895127736e71043eec77d1706dea26ec1cee7b6d5fc14fe1face08b961",
+      "lessons": 23,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "jakub-petrak",
+      "name": "Jakub Petrák",
+      "source": "assets/jakub-petrak.pdf",
+      "sourceSha256": "52ba4ba51085ec9b29e7fc36e44ee6b4ad77f49885d490ff7dd14aa9747d3add",
+      "lessons": 20,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "hynek-petros",
+      "name": "Hynek Petroš",
+      "source": "assets/hynek-petros.pdf",
+      "sourceSha256": "efded4d8172ecae340b65168d96d3321c8a70760203018a6cfdbea0a80f2210b",
+      "lessons": 4,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "barbora-pivonkova",
+      "name": "Barbora Pivoňková",
+      "source": "assets/barbora-pivonkova.pdf",
+      "sourceSha256": "70f13ad9672fa97d47a4e886398cfbd61dc67f9d7cfb62c2cc030278c863bdad",
+      "lessons": 21,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "pavel-pokorny",
+      "name": "Pavel Pokorný",
+      "source": "assets/pavel-pokorny.pdf",
+      "sourceSha256": "99029b8d3d448030355cc8044abba47a1779cf17c4bdc20fd34443448c1db32f",
+      "lessons": 22,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "michal-prutyszyn",
+      "name": "Michal Prutyszyn",
+      "source": "assets/michal-prutyszyn.pdf",
+      "sourceSha256": "57f064c15af735ae2c8fb0e8601530cec06c3ace9eb21e3cef20339a519ad99a",
+      "lessons": 4,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "ondrej-ruzicka",
+      "name": "Ondřej Růžička",
+      "source": "assets/ondrej-ruzicka.pdf",
+      "sourceSha256": "786641462d0f9480a16b2bf3b6b63e7074fde8dccbe2c2cd8bcb5914c0cbfa16",
+      "lessons": 24,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "radka-stefanakova",
+      "name": "Radka Štefaňáková",
+      "source": "assets/radka-stefanakova.pdf",
+      "sourceSha256": "5643498d2321ae290f3a79447bf8e7826cd1fe10602a3ec4767db7e4f9e7a455",
+      "lessons": 21,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "ladislav-trnka",
+      "name": "Ladislav Trnka",
+      "source": "assets/ladislav-trnka.pdf",
+      "sourceSha256": "de880ecdd0a0f2daccdb797faefb5d9d39be8585b5aba9dba802d4721866eec5",
+      "lessons": 25,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "martin-vyroubal",
+      "name": "Martin Vyroubal",
+      "source": "assets/martin-vyroubal.pdf",
+      "sourceSha256": "ed0d4c47bed65afef6a4f80570650f7c4ba7de1bc381da47939259b2ff4483b8",
+      "lessons": 24,
+      "verified": "PDF text, cell positions, classes, subjects, groups and rooms"
+    },
+    {
+      "teacherId": "lubomir-martinec",
+      "name": "Lubomír Martinec",
+      "source": "assets/lubomir-martinec-rozvrh.jpeg",
+      "sourceSha256": "180e9ad117d5ba4a72a59c0e0648d02fff6de2002e6d55a2bab30ca1aa7c5b13",
+      "lessons": 12,
+      "verified": "Visual review of original photograph"
+    },
+    {
+      "teacherId": "martin-theimer",
+      "name": "Martin Theimer",
+      "source": "assets/martin-theimer-rozvrh.jpeg",
+      "sourceSha256": "cf1eff31bfd0bb6b358e52f1c1730c265f8a86c7e9256d761b328da232cc749d",
+      "lessons": 12,
+      "verified": "Visual review of original photograph"
+    },
+    {
+      "teacherId": "miloslav-balek",
+      "name": "Miloslav Bálek",
+      "source": "assets/miloslav-balek-rozvrh.jpeg",
+      "sourceSha256": "1bca2a0f5ec24401a75d9d8370439f89a3672fa43480f2ea0a26dbfde4513061",
+      "lessons": 18,
+      "verified": "Visual review of original photograph"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "ondrej-cervinka",
+  "name": "Ondřej Červinka",
+  "first": "Ondřej",
+  "last": "Červinka",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "CO",
+  "role": "učitel",
+  "room": "kab. 4",
+  "phone": "251092128",
+  "classroom": "",
+  "email": "ondrej.cervinka@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "CJL",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A CJL (U7)"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "CJL",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A CJL (U7)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "CJL",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C CJL (U14)"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "CJL",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C CJL (U14)"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "CJL",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B CJL (U5)"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "CJL",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B CJL (U5)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CJL (U3)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CJL (U3)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "CJL",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C CJL (U14)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "CJL",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B CJL (U10)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "CJL",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B CJL (U10)"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "CJL",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CJL (STT)"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "CJL",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A CJL (U7)"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "CJL",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A CJL (U7)"
+    }
+  ],
+  "subjects": [
+    "CJL"
+  ],
+  "duties": "Dohled v přízemí (PŘ)\nSt: před 3. hod\nDohled v 1. patře (1.P)\nÚt: před 7. hod",
+  "pdf": "",
+  "fallbackAvatar": "male",
+  "photo": "assets/portraits/ondrej-cervinka-20261103.webp",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-11-03",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

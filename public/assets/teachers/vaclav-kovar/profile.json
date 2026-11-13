@@ -1,0 +1,458 @@
+{
+  "id": "vaclav-kovar",
+  "name": "Václav Kovář",
+  "first": "Václav",
+  "last": "Kovář",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "KL",
+  "role": "učitel",
+  "room": "kab. 3",
+  "phone": "251092124",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "TDK",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I TDK (SPS)"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "TDK",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I TDK (SPS)"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "ZKT",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I ZKT (U20)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "TDK",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L TDK (U16)"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "ELE",
+      "room": "MFC",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ELE (MFC) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "ELE",
+      "room": "MFC",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ELE (MFC) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "ELE",
+      "room": "U3",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ELE (U3) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "ELE",
+      "room": "U3",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ELE (U3) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "ZKT",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I ZKT (U20)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "ZKT",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ZKT (STT)"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "TDK",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L TDK (SPS)"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "TDK",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I TDK (U3)"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "TDK",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L TDK (U1)"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "TDK",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I TDK (U20)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "TDK",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I TDK (U20)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "ELE",
+      "room": "ELL1",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A ELE (ELL1) · 2/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "ELE",
+      "room": "ELL1",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A ELE (ELL1) · 2/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "ELE",
+      "room": "ELL1",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B ELE (ELL1) · 2/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "ELE",
+      "room": "ELL1",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B ELE (ELL1) · 2/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "ELE",
+      "room": "ELL1",
+      "group": "2/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C ELE (ELL1) · 2/2 · odd"
+    },
+    {
+      "day": 3,
+      "hour": 9,
+      "subject": "ELE",
+      "room": "ELL1",
+      "group": "2/2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "odd",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C ELE (ELL1) · 2/2 · odd"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "ZKT",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I ZKT (STT)"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "TDK",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L TDK (U1)"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "TDK",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L TDK (U16)"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "TDK",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L TDK (U16)"
+    }
+  ],
+  "subjects": [
+    "ELE",
+    "TDK",
+    "ZKT"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

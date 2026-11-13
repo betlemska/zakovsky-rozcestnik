@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793608556677,
+      "tag": "0000_tense_mentallo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793612453479,
+      "tag": "0001_parched_landau",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1794251187492,
+      "tag": "0002_clumsy_alice",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1794255216579,
+      "tag": "0003_calendar_rights",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1794561134527,
+      "tag": "0004_dark_lethal_legion",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1794567452876,
+      "tag": "0005_groovy_hobgoblin",
+      "breakpoints": true
+    }
+  ]
+}

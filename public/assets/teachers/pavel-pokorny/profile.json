@@ -1,0 +1,406 @@
+{
+  "id": "pavel-pokorny",
+  "name": "Pavel Pokorný",
+  "first": "Pavel",
+  "last": "Pokorný",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "PP",
+  "role": "učitel",
+  "room": "kab. 13",
+  "phone": "251092159",
+  "classroom": "",
+  "email": "pavel.pokorny@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "ANJ",
+      "room": "MFC",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ANJ (MFC) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "ANJ",
+      "room": "MFC",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ANJ (MFC) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "ANJ",
+      "room": "U6",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B ANJ (U6) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "ANJ",
+      "room": "CIJ1",
+      "group": "1/2",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C ANJ (CIJ1) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "subject": "ANJ",
+      "room": "CIJ1",
+      "group": "2/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A ANJ (CIJ1) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 9,
+      "subject": "ANJ",
+      "room": "CIJ1",
+      "group": "2/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A ANJ (CIJ1) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "ANJ",
+      "room": "U3",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I ANJ (U3) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "ANJ",
+      "room": "U3",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I ANJ (U3) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "ANJ",
+      "room": "U6",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B ANJ (U6) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "ANJ",
+      "room": "U13",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A ANJ (U13) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "subject": "ANJ",
+      "room": "U13",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A ANJ (U13) · 2/2"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "ANJ",
+      "room": "CIJ2",
+      "group": "1/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ANJ (CIJ2) · 1/2"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "ANJ",
+      "room": "CIJ2",
+      "group": "1/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ANJ (CIJ2) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "ANJ",
+      "room": "CIJ1",
+      "group": "2/2",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A ANJ (CIJ1) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "ANJ",
+      "room": "CIJ1",
+      "group": "1/2",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I ANJ (CIJ1) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "ANJ",
+      "room": "CIJ1",
+      "group": "1/2",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C ANJ (CIJ1) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "2/2",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A ANJ (CIJ5) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "ANJ",
+      "room": "CIJ5",
+      "group": "1/2",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C ANJ (CIJ5) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "ANJ",
+      "room": "SB",
+      "group": "1/2",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C ANJ (SB) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "ANJ",
+      "room": "CIJ2",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ANJ (CIJ2) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "ANJ",
+      "room": "CIJ2",
+      "group": "2/2",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B ANJ (CIJ2) · 2/2"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "ANJ",
+      "room": "CIJ2",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ANJ (CIJ2) · 2/2"
+    }
+  ],
+  "subjects": [
+    "ANJ"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nPo: 4. hod; Čt: 4. hod\nDohled v přízemí (PŘ)\nPo: před 6., 7. hod;\nPá: před 4. hod\nDohled v jídelně (JD)\nPá: před 8. hod",
+  "pdf": "",
+  "photo": "assets/portraits/pavel-pokorny.png",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-10-27",
+  "fallbackAvatar": "male",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

@@ -1,0 +1,458 @@
+{
+  "id": "jaroslav-kricka",
+  "name": "Jaroslav Křička",
+  "first": "Jaroslav",
+  "last": "Křička",
+  "title": "Ing.",
+  "suffix": "Ph.D.",
+  "code": "KŘ",
+  "role": "učitel",
+  "room": "kab. 3",
+  "phone": "251092124",
+  "classroom": "2.C",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "MEC",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L MEC (U1)"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "MEC",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L MEC (U1)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "SPS",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C SPS (U8)"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "ZKT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ZKT (MFC)"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "SPS",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A SPS (U17)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "ZKT",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L ZKT (SPS)"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A SPS (SPS)"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C SPS (SPS)"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "ZKT",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L ZKT (U5)"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A SPS (SPS)"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "ZKT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ZKT (MFC)"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B SPS (SPS)"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B SPS (SPS)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "SPS",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C SPS (U8)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "SPS",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C SPS (U8)"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A SPS (SPS)"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "ZKT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ZKT (MFC)"
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B SPS (SPS)"
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "4.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B"
+      ],
+      "cls": "4.B",
+      "raw": "4.B SPS (SPS)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A SPS (SPS)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A SPS (SPS)"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "ZKT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L ZKT (MFC)"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "SPS",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A SPS (SPS)"
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "subject": "SPS",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A SPS (U17)"
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "subject": "ZKT",
+      "room": "SPS",
+      "group": "",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L ZKT (SPS)"
+    }
+  ],
+  "subjects": [
+    "MEC",
+    "SPS",
+    "ZKT"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

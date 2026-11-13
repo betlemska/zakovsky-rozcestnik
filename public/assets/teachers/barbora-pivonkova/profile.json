@@ -1,0 +1,387 @@
+{
+  "id": "barbora-pivonkova",
+  "name": "Barbora Pivoňková",
+  "first": "Barbora",
+  "last": "Pivoňková",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "PB",
+  "role": "učitelka",
+  "room": "kab. 4",
+  "phone": "251092128",
+  "classroom": "",
+  "email": "barbora.pivonkova@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "CJL",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CJL (U5)"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "CJL",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CJL (U5)"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "CJL",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C CJL (U8)"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CJL (U3)"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CJL (U3)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "CJL",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C CJL (U5)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "CJL",
+      "room": "U5",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C CJL (U5)"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "DEJ",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I DEJ (U3)"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "DEJ",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A DEJ (U7)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "DEJ",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C DEJ (U8)"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "DEJ",
+      "room": "U17",
+      "group": "",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A DEJ (U17)"
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "subject": "CJL",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B CJL (U6)"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "CJL",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CJL (U9)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "CJL",
+      "room": "U9",
+      "group": "",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CJL (U9)"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "DEJ",
+      "room": "U7",
+      "group": "",
+      "classes": [
+        "1.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.A"
+      ],
+      "cls": "1.A",
+      "raw": "1.A DEJ (U7)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CJL (U3)"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "DEJ",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "1.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.I"
+      ],
+      "cls": "1.I",
+      "raw": "1.I DEJ (U3)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "DEJ",
+      "room": "U15",
+      "group": "",
+      "classes": [
+        "2.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.B"
+      ],
+      "cls": "2.B",
+      "raw": "2.B DEJ (U15)"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "CJL",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B CJL (U6)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "CJL",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B CJL (U6)"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "CJL",
+      "room": "U3",
+      "group": "",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I CJL (U3)"
+    }
+  ],
+  "subjects": [
+    "CJL",
+    "DEJ"
+  ],
+  "duties": "Suplovací pohotovost (SP)\nÚt: 6. hod; St: 2. hod\nDohled v přízemí (PŘ)\nČt: před 3. hod\nDohled ve 2. patře (2.P)\nPo: před 5. hod\nDohled v jídelně (JD)\nPo: před 6. hod",
+  "pdf": "",
+  "fallbackAvatar": "female",
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

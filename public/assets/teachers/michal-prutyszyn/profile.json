@@ -1,0 +1,106 @@
+{
+  "id": "michal-prutyszyn",
+  "name": "Michal Prutyszyn",
+  "first": "Michal",
+  "last": "Prutyszyn",
+  "title": "Mgr.",
+  "suffix": "MBA",
+  "code": "PR",
+  "role": "ředitel školy",
+  "room": "ředitelna",
+  "phone": "251092100",
+  "classroom": "",
+  "email": "michal.prutyszyn@betlemska.cz",
+  "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A ICT (VYT2) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "ICT",
+      "room": "VYT2",
+      "group": "1/2",
+      "classes": [
+        "2.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.A"
+      ],
+      "cls": "2.A",
+      "raw": "2.A ICT (VYT2) · 1/2"
+    }
+  ],
+  "subjects": [
+    "ICT"
+  ],
+  "duties": "",
+  "pdf": "",
+  "photo": "assets/portraits/michal-prutyszyn-20261103.webp",
+  "photoKind": "circular-restored",
+  "photoUpdated": "2026-11-03",
+  "fallbackAvatar": "male",
+  "externalLinks": [
+    {
+      "label": "Rozhovor · AI ve školství",
+      "url": "https://www.mmspektrum.com/clanek/ai-ve-skolstvi-pro-a-proti-nastroj-s-obrovskym-potencialem"
+    }
+  ],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": ""
+}

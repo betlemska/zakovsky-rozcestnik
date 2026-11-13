@@ -1,0 +1,476 @@
+{
+  "id": "martin-mulenko",
+  "name": "Martin Mulenko",
+  "first": "Martin",
+  "last": "Mulenko",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "MU",
+  "role": "učitel",
+  "room": "kab. 5",
+  "phone": "251092175",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "CAD3",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C CAD3 (VYT1) · MET"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "CAD3",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C CAD3 (VYT1) · MET"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "CDM",
+      "room": "CAM",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L CDM (CAM) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "CDM",
+      "room": "CAM",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L CDM (CAM) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "subject": "ASV",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C ASV (VYT1) · MET"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "ASV",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C ASV (VYT1) · MET"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "CAD3",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CAD3 (VYT1) · MET"
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "subject": "CAD3",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A CAD3 (VYT1) · MET"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "APD",
+      "room": "VYT3",
+      "group": "PKC1",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C APD (VYT3) · PKC1"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "APD",
+      "room": "VYT3",
+      "group": "PKC1",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C APD (VYT3) · PKC1"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "CAD3",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C CAD3 (VYT1) · MET"
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "subject": "CAD3",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "4.B",
+        "4.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.B",
+        "4.C"
+      ],
+      "cls": "4.B, 4.C",
+      "raw": "4.B, 4.C CAD3 (VYT1) · MET"
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "subject": "ASV",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A ASV (VYT1) · MET"
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "subject": "ASV",
+      "room": "VYT1",
+      "group": "MET",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A ASV (VYT1) · MET"
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C CAD1 (CAM) · CAD"
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "subject": "CAD1",
+      "room": "CAM",
+      "group": "CAD",
+      "classes": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A",
+        "3.B",
+        "3.C"
+      ],
+      "cls": "3.A, 3.B, 3.C",
+      "raw": "3.A, 3.B, 3.C CAD1 (CAM) · CAD"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "CDM",
+      "room": "VYT1",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L CDM (VYT1) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "CDM",
+      "room": "VYT1",
+      "group": "2/2",
+      "classes": [
+        "4.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.L"
+      ],
+      "cls": "4.L",
+      "raw": "4.L CDM (VYT1) · 2/2"
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "subject": "CDM",
+      "room": "CAM",
+      "group": "1/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L CDM (CAM) · 1/2"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "CDM",
+      "room": "CAM",
+      "group": "1/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L CDM (CAM) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "APD",
+      "room": "CAD",
+      "group": "PKC2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C APD (CAD) · PKC2"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "APD",
+      "room": "CAD",
+      "group": "PKC2",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C APD (CAD) · PKC2"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "CAD",
+      "room": "CAM",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CAD (CAM) · 1/2"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "CAD",
+      "room": "CAM",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I CAD (CAM) · 1/2"
+    }
+  ],
+  "subjects": [
+    "APD",
+    "ASV",
+    "CAD",
+    "CAD1",
+    "CAD3",
+    "CDM"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

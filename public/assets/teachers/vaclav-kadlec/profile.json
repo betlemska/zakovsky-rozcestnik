@@ -1,0 +1,287 @@
+{
+  "id": "vaclav-kadlec",
+  "name": "Václav Kadlec",
+  "first": "Václav",
+  "last": "Kadlec",
+  "title": "Mgr.",
+  "suffix": "",
+  "code": "KC",
+  "role": "učitel",
+  "room": "kab. 4",
+  "phone": "251092128",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "OBN",
+      "room": "U8",
+      "group": "",
+      "classes": [
+        "2.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.C"
+      ],
+      "cls": "2.C",
+      "raw": "2.C OBN (U8)"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "DEJ",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B DEJ (U10)"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "OBN",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B OBN (U6)"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "OBN",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C OBN (U14)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "DEJ",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L DEJ (U1)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "DEJ",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C DEJ (U16)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "DEJ",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I DEJ (U20)"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "OBN",
+      "room": "U20",
+      "group": "",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I OBN (U20)"
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "subject": "DEJ",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L DEJ (U16)"
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "subject": "DEJ",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "1.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.L"
+      ],
+      "cls": "1.L",
+      "raw": "1.L DEJ (U1)"
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "subject": "OBN",
+      "room": "STT",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I OBN (STT)"
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "subject": "DEJ",
+      "room": "U10",
+      "group": "",
+      "classes": [
+        "1.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.B"
+      ],
+      "cls": "1.B",
+      "raw": "1.B DEJ (U10)"
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "subject": "OBN",
+      "room": "U13",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A OBN (U13)"
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "subject": "DEJ",
+      "room": "U16",
+      "group": "",
+      "classes": [
+        "2.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.L"
+      ],
+      "cls": "2.L",
+      "raw": "2.L DEJ (U16)"
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "subject": "DEJ",
+      "room": "SB",
+      "group": "",
+      "classes": [
+        "1.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "1.C"
+      ],
+      "cls": "1.C",
+      "raw": "1.C DEJ (SB)"
+    }
+  ],
+  "subjects": [
+    "DEJ",
+    "OBN"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

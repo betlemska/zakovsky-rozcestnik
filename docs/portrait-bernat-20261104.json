@@ -1,0 +1,7 @@
+{
+  "teacher": "karel-bernat",
+  "source": "Nová fotografie dodaná uživatelem IMG_3891.jpeg",
+  "asset": "assets/portraits/karel-bernat-20261104.png",
+  "method": "Built-in image generation edit, identity-preserving restoration",
+  "prompt": "Use case: identity-preserve. Edit target: the uploaded photograph IMG_3891.jpeg, an older gray-haired man looking toward the camera with brown rectangular glasses low on his nose. Create ONE high-quality photorealistic headshot avatar for a school teacher profile, centered square 1024 by 1024, full head and a small amount of shoulders inside a clean circular crop; OUTSIDE THE CIRCLE fully transparent alpha. Restore this exact photograph: lighten his heavily backlit face, correct white balance to neutral, gently reduce noise and sharpen existing detail. Preserve his exact facial identity, age, wrinkles, short gray hairstyle, low glasses, gaze, expression and distinctive forward-leaning pose. Do not beautify or change features. Replace window/curtains background INSIDE circle with a soft neutral light gray background matching a professional school directory. Keep face realistic, natural skin texture; do not invent accessories, text, hat or watermark. Hair must fit within the circular boundary with breathing room. Do not generate a different person. This is a faithful photo restoration and face crop, not a new portrait."
+}

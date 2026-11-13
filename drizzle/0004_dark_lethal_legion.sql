@@ -1,0 +1,1 @@
+ALTER TABLE `portal_admins` ADD `class_scopes` text DEFAULT '["1.A"]' NOT NULL;

@@ -1,0 +1,237 @@
+{
+  "id": "petr-janis",
+  "name": "Petr Janiš",
+  "first": "Petr",
+  "last": "Janiš",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "JP",
+  "role": "učitel",
+  "room": "kab. CAD",
+  "phone": "251092117",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "PDG",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L PDG (CAD) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "PDG",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L PDG (CAD) · 2/2"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "PDG",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L PDG (CAD) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "PDG",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.L"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.L"
+      ],
+      "cls": "3.L",
+      "raw": "3.L PDG (CAD) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I CAD (CAD) · 1/2"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I CAD (CAD) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "APS",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I APS (CAD) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "APS",
+      "room": "CAD",
+      "group": "1/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I APS (CAD) · 1/2"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I CAD (CAD) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "subject": "CAD",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "2.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "2.I"
+      ],
+      "cls": "2.I",
+      "raw": "2.I CAD (CAD) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "subject": "APS",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I APS (CAD) · 2/2"
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "subject": "APS",
+      "room": "CAD",
+      "group": "2/2",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I APS (CAD) · 2/2"
+    }
+  ],
+  "subjects": [
+    "APS",
+    "CAD",
+    "PDG"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

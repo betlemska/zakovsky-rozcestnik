@@ -1,0 +1,235 @@
+{
+  "id": "lukas-hylsky",
+  "name": "Lukáš Hylský",
+  "first": "Lukáš",
+  "last": "Hylský",
+  "title": "",
+  "suffix": "",
+  "code": "HL",
+  "role": "učitel",
+  "room": "kab. 6",
+  "phone": "251092170",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C MAT (U14)"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B MAT (U6)"
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "subject": "MAT",
+      "room": "U1",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I MAT (U1)"
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "subject": "MAT",
+      "room": "U14",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C MAT (U14)"
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "U13",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A MAT (U13)"
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U13",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A MAT (U13)"
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "U6",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B MAT (U6)"
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "3.B"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.B"
+      ],
+      "cls": "3.B",
+      "raw": "3.B MAT (MFC)"
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I MAT (MFC)"
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "3.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.I"
+      ],
+      "cls": "3.I",
+      "raw": "3.I MAT (MFC)"
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "subject": "MAT",
+      "room": "U13",
+      "group": "",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A MAT (U13)"
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "subject": "MAT",
+      "room": "MFC",
+      "group": "",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C MAT (MFC)"
+    }
+  ],
+  "subjects": [
+    "MAT"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

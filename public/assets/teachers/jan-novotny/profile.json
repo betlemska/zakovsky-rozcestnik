@@ -1,0 +1,219 @@
+{
+  "id": "jan-novotny",
+  "name": "Jan Novotný",
+  "first": "Jan",
+  "last": "Novotný",
+  "title": "Ing.",
+  "suffix": "",
+  "code": "NV",
+  "role": "učitel",
+  "room": "kab. PRA",
+  "phone": "251092139",
+  "classroom": "",
+  "email": "",
+  "emailSource": "E-mail nebyl v dodaných podkladech ověřen.",
+  "schedule": [
+    {
+      "day": 0,
+      "hour": 0,
+      "subject": "PCV",
+      "room": "CNC1",
+      "group": "3/3",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I PCV (CNC1) · 3/3"
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "subject": "PCV",
+      "room": "CNC1",
+      "group": "3/3",
+      "classes": [
+        "4.I"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.I"
+      ],
+      "cls": "4.I",
+      "raw": "4.I PCV (CNC1) · 3/3"
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "3/3",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A PRA (CNC1) · 3/3"
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "3/3",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A PRA (CNC1) · 3/3"
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "3/3",
+      "classes": [
+        "3.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.A"
+      ],
+      "cls": "3.A",
+      "raw": "3.A PRA (CNC1) · 3/3"
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "3/3",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C PRA (CNC1) · 3/3"
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "3/3",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C PRA (CNC1) · 3/3"
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "3/3",
+      "classes": [
+        "3.C"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "3.C"
+      ],
+      "cls": "3.C",
+      "raw": "3.C PRA (CNC1) · 3/3"
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "2/3",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A PRA (CNC1) · 2/3"
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "2/3",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A PRA (CNC1) · 2/3"
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "subject": "PRA",
+      "room": "CNC1",
+      "group": "2/3",
+      "classes": [
+        "4.A"
+      ],
+      "coTeacherIds": [],
+      "weekPattern": "",
+      "sourceClasses": [
+        "4.A"
+      ],
+      "cls": "4.A",
+      "raw": "4.A PRA (CNC1) · 2/3"
+    }
+  ],
+  "subjects": [
+    "PCV",
+    "PRA"
+  ],
+  "duties": "",
+  "fallbackAvatar": "male",
+  "photo": "",
+  "externalLinks": [],
+  "scheduleValidFrom": "2026-10-12",
+  "scheduleValidTo": "2027-06-30",
+  "scheduleUpdated": "2026-11-13",
+  "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
+  "schedulePhotoSource": "",
+  "scheduleSource": "",
+  "pdf": ""
+}

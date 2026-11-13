@@ -1,0 +1,6 @@
+{
+  "mode": "image_gen.imagegen reference edit",
+  "reference": "IMG_3874.jpeg",
+  "output": "public/assets/portraits/ondrej-cervinka-20261103.webp",
+  "prompt": "Edit target: supplied photograph of Ondřej Červinka, man wearing rectangular glasses, salt-and-pepper beard and red shirt. Create ONE identity-preserving circular school-directory photo avatar matching the existing neutral gray school portraits. Tight crop of head and a little shoulders, complete hair/head visible; preserve exact face, head tilt, gaze, glasses, beard, expression and age. Only mild natural denoising and sharpening, no invented facial features or beauty retouch. Soft neutral gray background inside circle; true transparent outside circle. Exclude laptop and background. No text or frame. Do not change the person or pose."
+}

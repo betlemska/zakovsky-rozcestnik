@@ -1,0 +1,23 @@
+import {DatabaseSync} from 'node:sqlite';
+import {readFileSync,readdirSync} from 'node:fs';
+import {pbkdf2Sync} from 'node:crypto';
+import assert from 'node:assert/strict';
+import {adminResponse,makeVerifier,verifyPassword} from '../lib/portal-admin.mjs';
+import {mediaResponse} from '../lib/portal-media.mjs';
+const sqlite=new DatabaseSync(':memory:');for(const f of readdirSync(new URL('../drizzle/',import.meta.url)).filter(n=>n.endsWith('.sql')).sort())sqlite.exec(readFileSync(new URL('../drizzle/'+f,import.meta.url),'utf8'));
+const db={prepare(sql){const s=sqlite.prepare(sql);let a=[];const q={bind(...v){a=v;return q},async first(){return s.get(...a)||null},async all(){return{results:s.all(...a)}},async run(){return{meta:{changes:Number(s.run(...a).changes)}}}};return q},async batch(qs){sqlite.exec('BEGIN');try{const r=[];for(const q of qs)r.push(await q.run());sqlite.exec('COMMIT');return r}catch(e){sqlite.exec('ROLLBACK');throw e}}};
+const origin='https://secure.test',headers={'Content-Type':'application/json','Origin':origin,'X-Portal-Action':'1','cf-connecting-ip':'sec-test'};
+const request=(body,cookie='',extra={})=>new Request(origin+'/api/admin',{method:'POST',headers:{...headers,cookie,...extra},body:JSON.stringify(body)});
+const mutations=['save','news_save','news_delete','user_create','user_update','password','restore','users','history','logout'];
+for(const action of mutations)for(const cookie of ['', '__Host-betlemska-admin='+'a'.repeat(64)]){const r=await adminResponse(db,request({action,username:'kubicek',role:'admin',revision:0,content:{}},cookie,{'oai-authenticated-user-id':'kubicek'}),null);assert.equal(r.status,401,action+' cannot bypass authentication')}
+assert.equal((await mediaResponse(db,{},new Request(origin+'/api/media',{method:'POST',headers,body:new Uint8Array([255,216,255])}))).status,401);
+assert.equal(sqlite.prepare('SELECT count(*) AS n FROM portal_content').get().n,0,'Anonymous requests did not create data');
+const salt='1a'.repeat(16),password='legacy-fixture-password',legacy='pbkdf2$100000$'+salt+'$'+pbkdf2Sync(password,Buffer.from(salt,'hex'),100000,32,'sha256').toString('hex');
+assert.ok(await verifyPassword(password,legacy));assert.equal(await verifyPassword('wrong',legacy),false);
+sqlite.prepare('INSERT INTO portal_admins (username,verifier,version) VALUES (?,?,4)').run('kubicek',legacy);
+const login=await adminResponse(db,request({action:'login',username:'kubicek',password}),null);assert.equal(login.status,200);const cookie=login.headers.get('set-cookie').split(';')[0];const stored=sqlite.prepare('SELECT verifier,version FROM portal_admins').get();assert.match(stored.verifier,/^scrypt\$16384\$8\$5\$/);assert.equal(stored.version,4);assert.ok(await verifyPassword(password,stored.verifier));
+const first=await makeVerifier('same-test-password'),second=await makeVerifier('same-test-password');assert.notEqual(first,second,'Each password uses a fresh random salt');assert.equal(await verifyPassword('same-test-password',first),true);assert.equal(await verifyPassword('wrong',first),false);assert.equal(await verifyPassword('x','scrypt$999999999$8$5$'+salt+'$'+'0'.repeat(64)),false,'Unsupported costs rejected before crypto work');
+const cross=await adminResponse(db,request({action:'save',revision:0,content:{}},cookie,{Origin:'https://attacker.test'}),null);assert.equal(cross.status,403);
+for(const malformed of [null,[],1])assert.equal((await adminResponse(db,request(malformed,cookie),null)).status,400);
+const exposed=JSON.stringify(await (await adminResponse(db,new Request(origin+'/api/admin',{headers:{cookie}}),null)).json());assert.ok(!exposed.includes(stored.verifier));assert.ok(!exposed.includes('token_hash'));
+console.log('Security regression: 20 anonymous/forged-session mutations blocked, media protected, legacy hashes upgrade to salted scrypt, CSRF rejected and credential records excluded from API.');
