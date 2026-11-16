@@ -431,16 +431,12 @@
   "photoKind": "circular-restored",
   "photoUpdated": "2026-11-03",
   "fallbackAvatar": "male",
-  "externalLinks": [
-    {
-      "label": "Školská rada · web školy",
-      "url": "https://betlemska.cz/o-skole/skolska-rada"
-    }
-  ],
+  "externalLinks": [],
   "scheduleValidFrom": "2026-10-12",
   "scheduleValidTo": "2027-06-30",
   "scheduleUpdated": "2026-11-13",
   "scheduleProvenance": "Sjednoceno podle fotografií třídních a učitelských rozvrhů dodaných 13. 11. 2026; novější třídní podklady mají přednost.",
   "schedulePhotoSource": "",
-  "scheduleSource": ""
+  "scheduleSource": "",
+  "bio": "Člen školské rady."
 }
