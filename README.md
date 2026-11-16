@@ -12,8 +12,10 @@ npm test
 npm run build
 ```
 
-Import fotografií a známý rozpor u spoluvýuky tělocviku jsou popsány v [podkladech rozvrhů](docs/timetables/README.md). Rozvrhy jednotlivých tříd jsou v `public/assets/classes/`, učitelské profily v `public/assets/teachers/`. Původní fotografie rozvrhů a učitelů nejsou součástí veřejného vydání; profilové portréty zůstávají.
+Import rozvrhů a společný tělocvik jsou popsány v [podkladech rozvrhů](docs/timetables/README.md). Rozvrhy jednotlivých tříd jsou v `public/assets/classes/`, učitelské profily v `public/assets/teachers/`. Původní fotografie rozvrhů a učitelů nejsou součástí veřejného vydání; profilové portréty zůstávají.
 
 GitHub Pages se sestavuje z veřejného exportu. Provozní administrace, push a soukromá hlášení běží na serveru; GitHub neuchovává hesla, koncepty ani soukromé podněty. Podrobnosti jsou v `docs/admin.md`, `docs/calendar-reminders.md` a `SECURITY.md`.
 
 Třídní předsedové a zástupci mají vlastní redakční účet pro svoji třídu a mohou přidávat vlastní celoškolní události. Přihlašovací údaje nejsou ve veřejném repozitáři. Redakční články jsou zrušené; na úvodu zůstává automatická zpráva z webu školy.
+
+Při první návštěvě si žák vybere třídu. V nabídce **Moje třída** najde osobní školní den, interaktivní rozvrh a portrét třídního učitele s odkazem na jeho profil. Výběr lze změnit a prohlížení ostatních tříd jej nepřepisuje. Adresář tříd podporuje hledání podle třídy i třídního učitele a filtrování podle ročníku.
