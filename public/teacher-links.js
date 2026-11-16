@@ -53,6 +53,7 @@ function publicActivity(teacher){
 root.document?.addEventListener?.('click',event=>{const button=event.target.closest?.('[data-play-balek-video]');if(!button)return;const player=button.closest('[data-teacher-activity-player]');player.innerHTML='<iframe class="teacher-activity-video" data-teacher-activity-frame src="https://www.youtube-nocookie.com/embed/1JHBkbu8SHk?rel=0" title="Kralupy TV: Příměstský tenisový kemp Bálek (1. 9. 2016)" allow="encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>';player.querySelector('iframe')?.focus?.()});
 // School profiles and visitor comments selected by the site editor.
 const reviewProfiles = {
+ 'bohumil-jahoda': {url:'https://www.oznamkujucitele.cz/ucitel/214110',quote:'s přehledem král výuky praxí, absolutní boss celé školy…',subject:'praxe'},
  'lucie-asali': {url:'https://www.oznamkujucitele.cz/ucitel/208771',quote:'a the'},
  'karel-bernat': {"url": "https://www.oznamkujucitele.cz/ucitel/198479", "quote": "Farjer jak svině❤. Až vyrostu tak chci být stejnej pussydestroyer jako on🔥💦👉👌"},
  'zdenek-kouril': {"url": "https://www.oznamkujucitele.cz/ucitel/211456", "quote": "zdenda je asi nejchytřejší učitel na celé škole od mechaniky až po stroje a matematiku a navíc tančí jako drak 🐉. ne nadarmo má titul krále maturitních plesů a absolutního frajera. jestli ho bolševik vyhodí tak nemá smysl sem chodit."},
