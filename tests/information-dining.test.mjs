@@ -16,6 +16,19 @@ assert.equal(document.querySelector('.school-official-name').textContent,'Střed
 assert.equal(document.querySelector('a[href="tel:+420251092100"]').textContent,'+420 251 092 100');
 assert.equal(document.querySelectorAll('.school-contact-grid a[href^="mailto:"]').length,4);
 assert.equal(document.querySelectorAll('.school-useful-link[target="_blank"][rel="noopener noreferrer"]').length,6);
+const counsellors=[...document.querySelectorAll('.counselling-card')];
+assert.equal(counsellors.length,3);
+for(const [index,name,hours,email] of [[0,'Jiřina Tellerová','Pondělí 12:00–14:00','jirina.tellerova@betlemska.cz'],[1,'Kateřina Týčová','Pátek 11:30–12:15','katerina.tycova@betlemska.cz'],[2,'Romi Johansson','Středa od 13:00','johanssonterapie@gmail.com']]){
+ assert.ok(counsellors[index].querySelector('h3').textContent.includes(name));
+ assert.ok(counsellors[index].querySelector('.counselling-hours').textContent.includes(hours));
+ assert.ok(counsellors[index].querySelector(`a[href="mailto:${email}"]`));
+}
+assert.ok(counsellors[0].querySelector('a[href="tel:+420737596229"]'));
+assert.ok(counsellors[2].querySelector('a[href="tel:+420602243311"]'));
+assert.equal(counsellors[0].querySelector('[data-teacher]').dataset.teacher,'jirina-tellerova');
+assert.equal(counsellors[1].querySelector('[data-teacher]').dataset.teacher,'katerina-tycova');
+assert.equal(counsellors[2].querySelector('[data-teacher]'),null);
+assert.equal(document.querySelector('.counselling-source a').getAttribute('href'),'https://www.betlemska.cz/pro-rodice/vychovne-poradenstvi-a-prevence/vychovny-poradce-a-metodik-prevence');
 const flush=async()=>{for(let i=0;i<4;i++)await new Promise(setImmediate)};
 document.querySelector('[data-school-copy="name"]').dispatchEvent(new window.Event('click',{bubbles:true}));await flush();
 assert.equal(copied.at(-1),info.facts.name);assert.equal(notices.at(-1),'Zkopírováno do schránky.');

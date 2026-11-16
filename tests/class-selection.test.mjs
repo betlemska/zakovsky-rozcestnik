@@ -56,11 +56,18 @@ for(const cls of school.classes){await first.route('#schedule?class='+cls.id);as
 const remembered=await boot('2.B');assert.notEqual(remembered.document.querySelector('#class-chooser').open,true);
 const invalid=await boot('9.Z');assert.equal(invalid.document.querySelector('#class-chooser').open,true);
 const denied=await boot(null,true);denied.document.querySelector('[data-choose-class="4.I"]').click();await denied.route('#my-class');assert.match(denied.document.querySelector('.class-identity').textContent,/4\.I/);assert.equal(denied.document.querySelector('#class-chooser').open,false);assert.match(denied.document.querySelector('#toast').textContent,/tuto návštěvu/);
+await first.route('#teachers');
+assert.equal(first.document.querySelectorAll('.teacher-profile-cap').length,0,'The teacher directory keeps the ordinary portrait');
 await first.route('#teachers?teacher=miloslav-balek');
+assert.equal(first.document.querySelectorAll('#modal-content .teacher-profile-cap').length,1);
+assert.equal(first.document.querySelector('.teacher-profile-cap').getAttribute('src'),'assets/balek-cap.png');
+assert.equal(first.document.querySelectorAll('#main .teacher-profile-cap').length,0,'The cap appears only in the open profile');
+assert.match(first.document.querySelector('.teacher-profile-portrait--cap [data-teacher-photo]').getAttribute('src'),/miloslav-balek-20261103\.webp$/,'The original portrait remains intact beneath the overlay');
 assert.ok(first.document.querySelector('.teacher-public-activity a[href="tel:+420777697049"]'));
 assert.equal(first.document.querySelector('[data-teacher-activity-frame]'),null);
 first.document.querySelector('[data-play-balek-video]').click();
 assert.match(first.document.querySelector('[data-teacher-activity-frame]').getAttribute('src'),/youtube-nocookie/);
 first.document.querySelector('#close-modal').click();assert.equal(first.document.querySelector('[data-teacher-activity-frame]'),null);
+await first.route('#teachers?teacher=miriam-humeova');assert.equal(first.document.querySelector('.teacher-profile-cap'),null,'Other teacher profiles have no academy cap');
 assert.deepEqual(first.errors,[]);
 console.log('Personal class: first visit, persistence, invalid/blocked storage, all 20 homerooms/portraits, independent browsing, search/year/empty results, change of class, linked teacher profile and labelled Balek contacts/click-to-load video passed.');
