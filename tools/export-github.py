@@ -22,7 +22,7 @@ def export(output,snapshot,archive=None,refresh=True):
         raise ValueError('Download and localize referenced public media before exporting')
     if output.exists():shutil.rmtree(output)
     shutil.copytree(ROOT/'public',output)
-    for name in ['admin.html','admin.js','admin.css','notifications.js','reports.js']:
+    for name in ['admin.html','admin.js','admin.css','reports.js']:
         (output/name).unlink(missing_ok=True)
     (output/'assets/content.json').write_text(json.dumps(content,ensure_ascii=False,indent=2)+'\n')
     for directory in ['tools','tests','lib']:(output/directory).mkdir()
@@ -59,13 +59,13 @@ def export(output,snapshot,archive=None,refresh=True):
     app=replace_once(app,"fetch('api/school-news')","fetch(new URL('assets/school-news.json',document.baseURI),{cache:'no-store'})")
     app=re.sub(r'let schoolArticle = .*?;\n',"let schoolArticle;\ntry{schoolArticle=JSON.parse(document.querySelector('#official-news-data').textContent)}catch{}\n",app,count=1)
     (output/'app.js').write_text(app)
-    page=(output/'index.html').read_text()
-    page=re.sub(r'<button\b[^>]*data-action="(?:notifications|report)"[^>]*>.*?</button>','',page,flags=re.S)
-    page=re.sub(r'<script src="(?:notifications|reports)\.js[^"]*"[^>]*></script>','',page)
+    page=(output/'index.html').read_text().replace('</head>',f'<meta name="push-api" content="{ORIGIN}/api/push"></head>')
+    page=re.sub(r'<button\b[^>]*data-action="report"[^>]*>.*?</button>','',page,flags=re.S)
+    page=re.sub(r'<script src="reports\.js[^"]*"[^>]*></script>','',page)
     page=page.replace('href="admin.html"','href="'+ORIGIN+'/admin.html" target="_blank" rel="noopener noreferrer"')
     (output/'index.html').write_text(page)
-    worker=(output/'sw.js').read_text().split("self.addEventListener('push'")[0]
-    worker=re.sub(r",?'(?:notifications|reports)\.js[^']*'",'',worker)
+    worker=(output/'sw.js').read_text()
+    worker=re.sub(r",?'reports\.js[^']*'",'',worker)
     (output/'sw.js').write_text(worker)
     seed=re.search(r'let schoolArticle = (.*?);\n',(ROOT/'public/app.js').read_text())
     (output/'assets/school-news.json').write_text(json.dumps(json.loads(seed[1]),ensure_ascii=False,indent=2)+'\n')
